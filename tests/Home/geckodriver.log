@@ -1,0 +1,2442 @@
+1651225087131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile5OS9ut"
+1651225089621	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile5OS9ut\\search.json.mozlz4", (void 0)))
+1651225093740	Marionette	INFO	Listening on port 54142
+1651225094370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651225095195	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1651225107887	Marionette	INFO	Stopped listening on port 54142
+[Parent 6292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651225143625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileLH533t"
+1651225145115	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileLH533t\\search.json.mozlz4", (void 0)))
+1651225148680	Marionette	INFO	Listening on port 54209
+1651225149196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651225163501	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CreateWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CreateBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CreateWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CreateBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+1651225238581	Marionette	INFO	Stopped listening on port 54209
+1651225248514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofiletAQmbq"
+1651225250252	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofiletAQmbq\\search.json.mozlz4", (void 0)))
+1651225253687	Marionette	INFO	Listening on port 54130
+1651225254068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651225267656	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651225467457	Marionette	INFO	Stopped listening on port 54130
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1651225473992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileOq3Q2G"
+1651225477618	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileOq3Q2G\\search.json.mozlz4", (void 0)))
+1651225483978	Marionette	INFO	Listening on port 64424
+1651225484462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651225496147	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651228554970	Marionette	INFO	Stopped listening on port 64424
+1651228563945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileBLVo3w"
+1651228567707	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileBLVo3w\\search.json.mozlz4", (void 0)))
+[Parent 6760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651228571796	Marionette	INFO	Listening on port 55239
+1651228572663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651228675506	Marionette	INFO	Stopped listening on port 55239
+[Parent 6760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1651228680256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile2GCPd2"
+1651228681783	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile2GCPd2\\search.json.mozlz4", (void 0)))
+1651228685021	Marionette	INFO	Listening on port 50027
+1651228685591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651228779095	Marionette	INFO	Stopped listening on port 50027
+1651228784017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile3qEeT0"
+1651228785603	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile3qEeT0\\search.json.mozlz4", (void 0)))
+1651228788884	Marionette	INFO	Listening on port 57038
+1651228789001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651228821393	Marionette	INFO	Stopped listening on port 57038
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1651228826176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileiKnZcU"
+1651228828087	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileiKnZcU\\search.json.mozlz4", (void 0)))
+1651228831486	Marionette	INFO	Listening on port 53612
+1651228832030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651229161152	Marionette	INFO	Stopped listening on port 53612
+[Parent 8344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 8344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 8344, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:556
+1651229168150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileYuPOam"
+1651229169891	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileYuPOam\\search.json.mozlz4", (void 0)))
+1651229173050	Marionette	INFO	Listening on port 57129
+1651229173134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651229251243	Marionette	INFO	Stopped listening on port 57129
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Pa
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+rent 8860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651229256045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilexIGh84"
+1651229257586	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilexIGh84\\search.json.mozlz4", (void 0)))
+1651229261023	Marionette	INFO	Listening on port 53347
+1651229261496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651229468161	Marionette	INFO	Stopped listening on port 53347
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 8772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651229475189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileTsZwoz"
+1651229476899	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileTsZwoz\\search.json.mozlz4", (void 0)))
+1651229480324	Marionette	INFO	Listening on port 64650
+1651229480916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651229493375	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651229856975	Marionette	INFO	Stopped listening on port 64650
+[Parent 8100, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 8100, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651229875435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileTJP9zY"
+1651229877136	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileTJP9zY\\search.json.mozlz4", (void 0)))
+1651229880528	Marionette	INFO	Listening on port 62680
+1651229881117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651229891841	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651229901448	Marionette	INFO	Stopped listening on port 62680
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1651229908903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileDPmHPk"
+1651229910439	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileDPmHPk\\search.json.mozlz4", (void 0)))
+1651229913741	Marionette	INFO	Listening on port 58858
+1651229913981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651229925200	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651230219117	Marionette	INFO	Stopped listening on port 58858
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651230224060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileVRaGum"
+1651230231254	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileVRaGum\\search.json.mozlz4", (void 0)))
+1651230234706	Marionette	INFO	Listening on port 52561
+1651230235455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651230246950	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1651231460796	Marionette	INFO	Stopped listening on port 52561
+[Parent 1824, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651234045862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileUrLV8u"
+1651234049849	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileUrLV8u\\search.json.mozlz4", (void 0)))
+1651234057163	Marionette	INFO	Listening on port 59135
+1651234057564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651234071991	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651234797422	Marionette	INFO	Stopped listening on port 59135
+[Parent 5832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651241484498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileSCm0tD"
+1651241489196	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileSCm0tD\\search.json.mozlz4", (void 0)))
+1651241500713	Marionette	INFO	Listening on port 63233
+1651241501938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651241590801	Marionette	INFO	Stopped listening on port 63233
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1651241595429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileFqlSpE"
+1651241597135	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileFqlSpE\\search.json.mozlz4", (void 0)))
+1651241600401	Marionette	INFO	Listening on port 54312
+1651241601090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651241627113	Marionette	INFO	Stopped listening on port 54312
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651241660960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileO997Yi"
+1651241662475	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileO997Yi\\search.json.mozlz4", (void 0)))
+1651241665617	Marionette	INFO	Listening on port 60850
+1651241666267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651241754470	Marionette	INFO	Stopped listening on port 60850
+[Parent 1120, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 1120, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1651474037810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilec7Cvqc"
+1651474041254	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilec7Cvqc\\search.json.mozlz4", (void 0)))
+1651474049137	Marionette	INFO	Listening on port 63572
+1651474049999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/message-groups)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651474673012	Marionette	INFO	Stopped listening on port 63572
+1651475899853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilezvz247"
+1651475901536	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilezvz247\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+[Parent 4432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651475912549	Marionette	INFO	Listening on port 63968
+1651475914235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+1651476077668	Marionette	INFO	Stopped listening on port 63968
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1651476322497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileUN50MT"
+1651476324985	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileUN50MT\\search.json.mozlz4", (void 0)))
+1651476328786	Marionette	INFO	Listening on port 62184
+1651476329110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+1651476506910	Marionette	INFO	Stopped listening on port 62184
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8452, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 8452, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:556
+1651476511605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofiles2uV1m"
+1651476513354	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofiles2uV1m\\search.json.mozlz4", (void 0)))
+1651476516508	Marionette	INFO	Listening on port 53731
+1651476516770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+1651476601685	Marionette	INFO	Stopped listening on port 53731
+[Parent 6752, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6752, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:556
+1651476608007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileN3lei4"
+1651476609528	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileN3lei4\\search.json.mozlz4", (void 0)))
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651476612604	Marionette	INFO	Listening on port 53414
+1651476613146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1651476634024	Marionette	INFO	Stopped listening on port 53414
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1651476739210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileR1d7ix"
+1651476740946	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileR1d7ix\\search.json.mozlz4", (void 0)))
+1651476744281	Marionette	INFO	Listening on port 57220
+1651476744813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1651476789192	Marionette	INFO	Stopped listening on port 57220
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1651476864488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileaML9wd"
+1651476866242	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileaML9wd\\search.json.mozlz4", (void 0)))
+1651476869402	Marionette	INFO	Listening on port 54283
+1651476869520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+1651476932037	Marionette	INFO	Stopped listening on port 54283
+[Parent 9224, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:556
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651476937060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileGkst6c"
+1651476938601	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileGkst6c\\search.json.mozlz4", (void 0)))
+1651476941732	Marionette	INFO	Listening on port 58368
+1651476942250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+1651477035790	Marionette	INFO	Stopped listening on port 58368
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651477041062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilesQozcV"
+1651477042917	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilesQozcV\\search.json.mozlz4", (void 0)))
+1651477046114	Marionette	INFO	Listening on port 58502
+1651477046295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+1651477140132	Marionette	INFO	Stopped listening on port 58502
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] ErrorJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilejW935K\\search.json.mozlz4", (void 0)))
+1651477143156	Marionette	INFO	Listening on port 58643
+1651477143321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/personality-provider-models Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  main/personality-provider-models local data was corrupted
+console.warn: services.settings: main/personality-provider-models Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-models Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  main/personality-provider-recipe local data was corrupted
+console.warn: services.settings: main/personality-provider-recipe Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+1651477676893	Marionette	INFO	Stopped listening on port 58643
+[Parent 8756, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651477743801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileIxjeBS"
+1651477745307	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileIxjeBS\\search.json.mozlz4", (void 0)))
+1651477748651	Marionette	INFO	Listening on port 61152
+1651477749027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+1651477893450	Marionette	INFO	Stopped listening on port 61152
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1651477940397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileUL0heE"
+1651477940981	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileUL0heE\\search.json.mozlz4", (void 0)))
+1651477944281	Marionette	INFO	Listening on port 63458
+1651477944852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651478370801	Marionette	INFO	Stopped listening on port 63458
+1651478605162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile3Gvvgp"
+1651478606771	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile3Gvvgp\\search.json.mozlz4", (void 0)))
+1651478610383	Marionette	INFO	Listening on port 55139
+1651478610736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/personality-provider-models Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  main/personality-provider-models local data was corrupted
+console.warn: services.settings: main/personality-provider-models Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-models Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  main/personality-provider-recipe local data was corrupted
+console.warn: services.settings: main/personality-provider-recipe Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/message-groups)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651482687042	Marionette	INFO	Stopped listening on port 55139
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651482695442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileujhn7n"
+1651482699855	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileujhn7n\\search.json.mozlz4", (void 0)))
+1651482704004	Marionette	INFO	Listening on port 63964
+1651482704196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1651482802502	Marionette	INFO	Stopped listening on port 63964
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1651482807040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilend9ypv"
+1651482809092	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilend9ypv\\search.json.mozlz4", (void 0)))
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1651482813170	Marionette	INFO	Listening on port 51732
+1651482813763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651482824376	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651482911894	Marionette	INFO	Stopped listening on port 51732
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3864, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3864, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651482917713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileIqYrAg"
+1651482919361	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileIqYrAg\\search.json.mozlz4", (void 0)))
+1651482922776	Marionette	INFO	Listening on port 51909
+1651482923356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651482933536	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651483028525	Marionette	INFO	Stopped listening on port 51909
+1651483047161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileCKODar"
+1651483049082	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileCKODar\\search.json.mozlz4", (void 0)))
+1651483052762	Marionette	INFO	Listening on port 52439
+1651483053249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+1651483141467	Marionette	INFO	Stopped listening on port 52439
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9712, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 9712, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651483146409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile6Wk5Sa"
+1651483147911	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile6Wk5Sa\\search.json.mozlz4", (void 0)))
+1651483151584	Marionette	INFO	Listening on port 56967
+1651483151983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+1651483198079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileB3Bklc"
+1651483199633	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileB3Bklc\\search.json.mozlz4", (void 0)))
+1651483203200	Marionette	INFO	Listening on port 57106
+1651483204030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+1651483396754	Marionette	INFO	Stopped listening on port 57106
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9976, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:556
+p\\rust_mozprofileLUfJvI\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1651483332797	Marionette	INFO	Listening on port 51323
+1651483333933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651483352695	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651483407714	Marionette	INFO	Stopped listening on port 51323
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\Anil\AppData\Local\Temp\rust_mozprofileLUfJvI\sessionCheckpoints.json.tmp) to destination(C:\Users\Anil\AppData\Local\Temp\rust_mozprofileLUfJvI\sessionCheckpoints.json)
+1651483427975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile1BX0Zi"
+1651483430071	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile1BX0Zi\\search.json.mozlz4", (void 0)))
+1651483434109	Marionette	INFO	Listening on port 54971
+1651483434156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651483444649	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651483722692	Marionette	INFO	Stopped listening on port 54971
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 3304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651485344868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileDh6Wd1"
+1651485345470	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileDh6Wd1\\search.json.mozlz4", (void 0)))
+1651485349023	Marionette	INFO	Listening on port 53376
+1651485349583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651485360005	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651485500617	Marionette	INFO	Stopped listening on port 53376
+1651485506375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileCp00er"
+1651485507892	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileCp00er\\search.json.mozlz4", (void 0)))
+1651485510965	Marionette	INFO	Listening on port 64128
+1651485511523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651485521506	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651485534497	Marionette	INFO	Stopped listening on port 64128
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1651486108951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile4TQLaL"
+1651486116659	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile4TQLaL\\search.json.mozlz4", (void 0)))
+1651486120019	Marionette	INFO	Listening on port 57898
+1651486120783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651486131730	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651486135620	Marionette	INFO	Stopped listening on port 57898
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1651488047391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilepBvpo1"
+1651488048932	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilepBvpo1\\search.json.mozlz4", (void 0)))
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1651488053283	Marionette	INFO	Listening on port 60872
+1651488054251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651488324514	Marionette	INFO	Stopped listening on port 60872
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileAh8ki0"
+1651488234954	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileAh8ki0\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1651488244020	Marionette	INFO	Listening on port 63259
+1651488244089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651488325885	Marionette	INFO	Stopped listening on port 63259
+1651488332539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilebLYh3J"
+1651488334111	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilebLYh3J\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1651488337476	Marionette	INFO	Listening on port 52633
+1651488337537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651488350699	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651488565134	Marionette	INFO	Stopped listening on port 52633
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1651488573918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileSgM0ut"
+1651488574653	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileSgM0ut\\search.json.mozlz4", (void 0)))
+1651488578150	Marionette	INFO	Listening on port 59441
+1651488578427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651488588930	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651488598501	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651488602123	Marionette	INFO	Stopped listening on port 59441
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1651488816741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileaXm7Jd"
+1651488817298	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileaXm7Jd\\search.json.mozlz4", (void 0)))
+1651488820627	Marionette	INFO	Listening on port 51084
+1651488820945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 10740, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:556
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651488831579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651488841005	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651488844407	Marionette	INFO	Stopped listening on port 51084
+[Parent 10740, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651488943827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileE4Ace8"
+1651488944366	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileE4Ace8\\search.json.mozlz4", (void 0)))
+1651488947861	Marionette	INFO	Listening on port 51243
+1651488948247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651488958705	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651488968264	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651488971594	Marionette	INFO	Stopped listening on port 51243
+[Parent 5228, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1651490101574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileiDtX8w"
+1651490102152	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileiDtX8w\\search.json.mozlz4", (void 0)))
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1651490105683	Marionette	INFO	Listening on port 52539
+1651490106243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651490271989	Marionette	INFO	Stopped listening on port 52539
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1651490288301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileUpi7mU"
+1651490290040	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileUpi7mU\\search.json.mozlz4", (void 0)))
+1651490293664	Marionette	INFO	Listening on port 60030
+1651490294332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651490398987	Marionette	INFO	Stopped listening on port 60030
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1651490404133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileXmj9mC"
+1651490405704	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileXmj9mC\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1651490409118	Marionette	INFO	Listening on port 64723
+1651490409587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651490466439	Marionette	INFO	Stopped listening on port 64723
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1651490471697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileAHtbEd"
+1651490472826	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileAHtbEd\\search.json.mozlz4", (void 0)))
+1651490476239	Marionette	INFO	Listening on port 58584
+1651490476762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651490486863	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651490495489	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651490498782	Marionette	INFO	Stopped listening on port 58584
+[Parent 6400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1651490546422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileeedYl4"
+1651490548789	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileeedYl4\\search.json.mozlz4", (void 0)))
+1651490552097	Marionette	INFO	Listening on port 60267
+1651490552648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651490563186	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651490573424	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651490577796	Marionette	INFO	Stopped listening on port 60267
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PSessionStorageObserver::Msg_Observe) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1651491063634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilen8KtgE"
+1651491065068	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilen8KtgE\\search.json.mozlz4", (void 0)))
+1651491068466	Marionette	INFO	Listening on port 57771
+1651491068740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651491079208	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651491088446	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651491092934	Marionette	INFO	Stopped listening on port 57771
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5372, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:556
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651491486672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilenZM1pG"
+1651491488573	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilenZM1pG\\search.json.mozlz4", (void 0)))
+1651491491814	Marionette	INFO	Listening on port 56631
+1651491492284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+1651491509679	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651491512971	Marionette	INFO	Stopped listening on port 56631
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1651759791249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileObyCcq"
+1651759811146	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileObyCcq\\search.json.mozlz4", (void 0)))
+1651759830340	Marionette	INFO	Listening on port 58160
+1651759831053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651759854040	Marionette	INFO	Stopped listening on port 58160
+[Parent 8600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 443))
+[Parent 8600, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:556
+1651759896381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilevMDJAC"
+1651759898875	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilevMDJAC\\search.json.mozlz4", (void 0)))
+1651759902024	Marionette	INFO	Listening on port 54613
+1651759902133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651759915070	Marionette	INFO	Stopped listening on port 54613
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1651760160441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilewK4DJ1"
+1651760161798	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilewK4DJ1\\search.json.mozlz4", (void 0)))
+1651760165043	Marionette	INFO	Listening on port 58740
+1651760165576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651760177517	Marionette	INFO	Stopped listening on port 58740
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651829670450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilem4ffM4"
+1651829727857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileOVTPwn"
+1651829750664	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileOVTPwn\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1651829782520	Marionette	INFO	Listening on port 51487
+1651829784932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651829824010	Marionette	INFO	Stopped listening on port 51487
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  2
+[Parent 796, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651837539515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile0xvDfY"
+1651837544073	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile0xvDfY\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1651837554843	Marionette	INFO	Listening on port 51477
+1651837555482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651837567345	Marionette	INFO	Stopped listening on port 51477
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 4600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651838888403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileiF4X3T"
+1651838890427	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileiF4X3T\\search.json.mozlz4", (void 0)))
+1651838893943	Marionette	INFO	Listening on port 52748
+1651838894140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651838908812	Marionette	INFO	Stopped listening on port 52748
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+1652093970307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileZNaYvA"
+1652093977053	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileZNaYvA\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1652093990870	Marionette	INFO	Listening on port 61521
+1652093991428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652094003797	Marionette	INFO	Stopped listening on port 61521
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1652096990678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofiledlzhXK"
+1652096992243	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofiledlzhXK\\search.json.mozlz4", (void 0)))
+1652096996238	Marionette	INFO	Listening on port 49894
+1652096996536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652097004646	Marionette	INFO	Stopped listening on port 49894
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
