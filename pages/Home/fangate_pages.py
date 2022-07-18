@@ -307,6 +307,29 @@ class FangatePage(SeleniumDriver):
     def ytChannelNameSendKeys(self, cName):
         self.sendKeys(cName, self._add_channel_yt_name)
 
+    def clickSpStep(self):
+        self.elementClick(self._add_spotify_step)
+
+    def clickSpFollow(self):
+        self.checkRadioElementClick(self._follow_sp, "xpath", self._follow_sp_id)
+
+    def clickSpSave(self):
+        self.checkRadioElementClick(self._save_sp, "xpath", self._save_sp_id)
+
+    def clickSpSkippable(self):
+        self.checkRadioElementClick(self._skippable_sp, "xpath", self._skippable_sp_id)
+
+    def spProfileSendKeys(self, profileSp):
+        self.sendKeys(profileSp, self._add_artist_sp)
+
+    def spTrackSendKeys(self, trackSp):
+        self.sendKeys(trackSp, self._add_track_sp)
+
+
+
+
+
+
     # ------------------------------xxx-------------------------------
 
 
@@ -472,9 +495,7 @@ class FangatePage(SeleniumDriver):
         self.ytChannelSendKeys("https://www.youtube.com/user/DoctoresseBonneto")
         self.ytChannelNameSendKeys("Cname")
         time.sleep(3)
-        self.clickOnNextGateSteps()
-        time.sleep(1)
-        self.clickOnNextGateSteps()
+
 
         #-------------------------------Spotify Step --------------------------
 
@@ -484,8 +505,8 @@ class FangatePage(SeleniumDriver):
         self.clickSpFollow()
         self.clickSpSave()
         self.clickSpSkippable()
-        self.ytChannelSendKeys("https://www.youtube.com/user/DoctoresseBonneto")
-        self.ytChannelNameSendKeys("Cname")
+        self.spProfileSendKeys("https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql")
+        self.spTrackSendKeys("https://open.spotify.com/track/0VbRRS6pOgCvepxNiAz2fY")
         time.sleep(3)
         self.clickOnNextGateSteps()
         time.sleep(1)
