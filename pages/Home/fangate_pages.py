@@ -67,6 +67,7 @@ class FangatePage(SeleniumDriver):
     _skippable_yt = "//div[@class='checkbox']//label[@for='skippable_yt']"
     _add_channel_yt_url = "add_youtube_channel_custom_url"
     _add_channel_yt_name = "add_youtube_channel_custom_name"
+    _yt_profile_add_button = "youtube_profile_add_button"
     # ---------------------xxxx------------------------------------------
     #------------------------Spotify------------------------------------
     _add_spotify_step = "add_spotify_button"
@@ -307,6 +308,9 @@ class FangatePage(SeleniumDriver):
     def ytChannelNameSendKeys(self, cName):
         self.sendKeys(cName, self._add_channel_yt_name)
 
+    def clickYtProfileAddButton(self):
+        self.elementClick(self._yt_profile_add_button)
+
     def clickSpStep(self):
         self.elementClick(self._add_spotify_step)
 
@@ -325,8 +329,165 @@ class FangatePage(SeleniumDriver):
     def spTrackSendKeys(self, trackSp):
         self.sendKeys(trackSp, self._add_track_sp)
 
+    def clickApStep(self):
+        self.elementClick(self._add_apple_step)
+
+    def clickApLike(self):
+        self.checkRadioElementClick(self._like_ap, "xpath", self._like_ap_id)
+
+    def clickApSave(self):
+        self.checkRadioElementClick(self._save_ap, "xpath", self._save_ap_id)
+
+    def clickApSkippable(self):
+        self.checkRadioElementClick(self._skippable_ap, "xpath", self._skippable_ap_id)
+
+    def apTrackSendKeys(self,trackUrlAp):
+        self.sendKeys(trackUrlAp,self._add_artist_ap)
+
+    def clickDzStep(self):
+        self.elementClick(self._add_deezer_step)
+
+    def clickDzFollow(self):
+        self.checkRadioElementClick(self._follow_dz, "xpath", self._follow_dz_id)
+
+    def clickDzSave(self):
+        self.checkRadioElementClick(self._save_dz, "xpath", self._save_dz_id)
+
+    def clickDzSkippable(self):
+        self.checkRadioElementClick(self._skippable_dz, "xpath", self._skippable_dz_id)
+
+    def dzArtistSendKeys(self, artistUrlDz):
+        self.sendKeys(artistUrlDz, self._add_artist_dz)
+
+    def dzTrackSendKeys(self, trackUrlDz):
+        self.sendKeys(trackUrlDz, self._add_track_dz)
 
 
+
+    def clickMcStep(self):
+        self.elementClick(self._add_mixcloud_step)
+
+    def clickMcFollow(self):
+        self.checkRadioElementClick(self._follow_mc, "xpath", self._follow_mc_id)
+
+    def clickMcRepost(self):
+        self.checkRadioElementClick(self._repost_mc, "xpath", self._repost_mc_id)
+
+    def clickMcLike(self):
+        self.checkRadioElementClick(self._like_mc, "xpath", self._like_mc_id)
+
+    def clickMcSkippable(self):
+        self.checkRadioElementClick(self._skippable_mc, "xpath", self._skippable_mc_id)
+
+    def mcProfileSendKeys(self, profileUrlMc):
+        self.sendKeys(profileUrlMc, self._add_artist_mc)
+
+    def mcTrackSendKeys(self, trackUrlMc):
+        self.sendKeys(trackUrlMc, self._add_track_mc)
+
+    def clickTwStep(self):
+        self.elementClick(self._add_twitter_step)
+
+    def clickTwFollow(self):
+        self.checkRadioElementClick(self._follow_tw, "xpath", self._follow_tw_id)
+
+    def clickTwShare(self):
+        self.checkRadioElementClick(self._share_tw, "xpath", self._share_tw_id)
+
+    def clickTwSkippable(self):
+        self.checkRadioElementClick(self._skippable_tw, "xpath", self._skippable_tw_id)
+
+    def twProfileSendKeys(self, profileUrlTw):
+        self.sendKeys(profileUrlTw, self._add_profile_tw)
+
+    def clickThStep(self):
+        self.elementClick(self._add_twitch_step)
+
+    def clickThFollow(self):
+        self.checkRadioElementClick(self._follow_th, "xpath", self._follow_th_id)
+
+    def clickThSubscription(self):
+        self.checkRadioElementClick(self._subscribe_th, "xpath", self._subscribe_th_id)
+
+    def clickThSkippable(self):
+        self.checkRadioElementClick(self._skippable_th, "xpath", self._skippable_th_id)
+
+    def thChannelSendKeys(self, channelUrlTh):
+        self.sendKeys(channelUrlTh, self._add_artist_th)
+
+    def clickFbMsgrStep(self):
+        self.elementClick(self._add_fb_msgr_step)
+
+    def clickFbMsgrSubscription(self):
+        self.checkRadioElementClick(self._subscribe_fb_msgr, "xpath", self._subscribe_fb_msgr_id)
+
+    def clickFbMsgrSkippable(self):
+        self.checkRadioElementClick(self._skippable_fb_msgr, "xpath", self._skippable_fb_msgr_id)
+
+    def fbMsgrChatbotSendKeys(self):
+        self.elementClick(self._chatbot_platform_caret_fb_msgr, "xpath")
+        time.sleep(3)
+        self.elementClick(self._select_chatbot_fb_msgr, "xpath")
+
+    def fbMsgrPageSendKeys(self, pageUrlFbMsgr):
+        self.sendKeys(pageUrlFbMsgr, self._add_page_fb_msgr)
+
+    def clickIgStep(self):
+        self.elementClick(self._add_instagram_step)
+
+    def clickIgFollow(self):
+        self.checkRadioElementClick(self._follow_ig, "xpath", self._follow_ig_id)
+
+    def clickIgSkippable(self):
+        self.checkRadioElementClick(self._skippable_ig, "xpath", self._skippable_ig_id)
+
+    def igProfileSendKeys(self, profileUrlIg):
+        self.sendKeys(profileUrlIg, self._add_profile_ig)
+
+    def clickTkStep(self):
+        self.elementClick(self._add_tiktok_step)
+
+    def clickTkFollow(self):
+        self.checkRadioElementClick(self._follow_tk, "xpath", self._follow_tk_id)
+
+    def clickTkSkippable(self):
+        self.checkRadioElementClick(self._skippable_tk, "xpath", self._skippable_tk_id)
+
+    def tkProfileSendKeys(self, profileUrlTk):
+        self.sendKeys(profileUrlTk, self._add_profile_tk)
+
+    def clickBcStep(self):
+        self.elementClick(self._add_bandcamp_step)
+
+    def clickBcFollow(self):
+        self.checkRadioElementClick(self._follow_bc, "xpath", self._follow_bc_id)
+
+    def clickBcSkippable(self):
+        self.checkRadioElementClick(self._skippable_bc, "xpath", self._skippable_bc_id)
+
+    def bcProfileSendKeys(self, profileUrlBc):
+        self.sendKeys(profileUrlBc, self._add_profile_bc)
+
+    def clickFbStep(self):
+        self.elementClick(self._add_facebook_step)
+
+    def clickFbShare(self):
+        self.checkRadioElementClick(self._share_fb, "xpath", self._share_fb_id)
+
+    def clickFbLike(self):
+        self.checkRadioElementClick(self._like_fb, "xpath", self._like_fb_id)
+
+    def clickFbSkippable(self):
+        self.checkRadioElementClick(self._skippable_fb, "xpath", self._skippable_fb_id)
+
+    def fbPageSendKeys(self, pageUrlFb):
+        self.sendKeys(pageUrlFb, self._add_page_fb)
+
+    def clickDnStep(self):
+        self.elementClick(self._add_donation_step)
+
+    def dnEmailSendKeys(self, emailDn):
+        self.sendKeys(emailDn, self._add_donation)
 
 
 
@@ -473,15 +634,10 @@ class FangatePage(SeleniumDriver):
         # self.clickScStep()
         time.sleep(3)
         self.clickScFollow()
-        time.sleep(3)
         self.clickScComment()
-        time.sleep(3)
         self.clickScLike()
-        time.sleep(3)
         self.clickScRepost()
-        time.sleep(3)
         self.clickScSkippable()
-
         # Skip Profile SC
         # Skip Title SC
 
@@ -494,23 +650,121 @@ class FangatePage(SeleniumDriver):
         self.clickYtSkippable()
         self.ytChannelSendKeys("https://www.youtube.com/user/DoctoresseBonneto")
         self.ytChannelNameSendKeys("Cname")
+        self.clickYtProfileAddButton()
+
+        # ---------------------Apple Step------------------------------
         time.sleep(3)
+        self.clickApStep()
+        time.sleep(2)
+        self.clickApStep()
+        self.clickApLike()
+        self.clickApSave()
+        self.clickApSkippable()
+        self.apTrackSendKeys("https://music.apple.com/in/album/humdard/1111741333?i=1111741446")
+
 
 
         #-------------------------------Spotify Step --------------------------
 
         time.sleep(3)
         self.clickSpStep()
-        time.sleep(3)
+
         self.clickSpFollow()
         self.clickSpSave()
         self.clickSpSkippable()
         self.spProfileSendKeys("https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql")
         self.spTrackSendKeys("https://open.spotify.com/track/0VbRRS6pOgCvepxNiAz2fY")
+
+
+
+
+
+        # ---------------------Deezer Step------------------------------
         time.sleep(3)
+        self.clickDzStep()
+        self.clickDzFollow()
+        self.clickDzSave()
+        self.clickDzSkippable()
+        self.dzArtistSendKeys("https://www.deezer.com/us/artist/661247")
+        self.dzTrackSendKeys("https://www.deezer.com/us/track/15211178")
+
+        # ---------------------Mixcloud Step------------------------------
+        time.sleep(3)
+        self.clickMcStep()
+        self.clickMcFollow()
+        self.clickMcRepost()
+        self.clickMcLike()
+        self.clickMcSkippable()
+        self.mcProfileSendKeys("https://www.mixcloud.com/gabrydemartini")
+        self.mcTrackSendKeys("https://www.mixcloud.com/felixdahousecat/chicago-blakkout-episode-14/")
+
+        # ---------------------Twitter Step------------------------------
+        time.sleep(3)
+        self.clickTwStep()
+        self.clickTwFollow()
+        self.clickTwShare()
+        self.clickTwSkippable()
+        self.twProfileSendKeys("https://twitter.com/csswg")
+
+        # ---------------------Twitch Step------------------------------
+        time.sleep(3)
+        self.clickThStep()
+        self.clickThFollow()
+        self.clickThSubscription()
+        self.clickThSkippable()
+        self.thChannelSendKeys("sweet_anita")
+
+        # ---------------------Messenger Step------------------------------
+        time.sleep(3)
+        self.clickFbMsgrStep()
+        self.clickFbMsgrSubscription()
+        self.clickFbMsgrSkippable()
+        time.sleep(2)
+        self.fbMsgrChatbotSendKeys()
+        self.fbMsgrPageSendKeys('https://www.facebook.com/Test-company-109379167072055')
+
+        # ---------------------Instagram Step------------------------------
+        time.sleep(3)
+        self.clickIgStep()
+        self.clickIgFollow()
+        self.clickIgSkippable()
+        self.igProfileSendKeys("https://www.instagram.com/hypeddit")
+
+        # ---------------------TikTok Step------------------------------
+        time.sleep(3)
+        self.clickTkStep()
+        self.clickTkFollow()
+        self.clickTkSkippable()
+        self.tkProfileSendKeys("https://www.tiktok.com/hypeddit")
+
+        # ---------------------Bandcamp Step------------------------------
+        time.sleep(3)
+        self.clickBcStep()
+        self.clickBcFollow()
+        self.clickBcSkippable()
+        self.bcProfileSendKeys("https://www.bandcamp.com/hypeddit")
+
+        # ---------------------Facebook Step------------------------------
+        time.sleep(3)
+        self.clickFbStep()
+        self.clickFbShare()
+        self.clickFbLike()
+        self.clickFbSkippable()
+        self.fbPageSendKeys("https://www.facebook.com/hypeddit")
+
+        # ---------------------Donation Step------------------------------
+        time.sleep(3)
+        self.clickDnStep()
+        self.dnEmailSendKeys("testing001web@gmail.com")
+
         self.clickOnNextGateSteps()
         time.sleep(1)
         self.clickOnNextGateSteps()
+
+
+
+
+
 
 
     def linkUrl(self):
