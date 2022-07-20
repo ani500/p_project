@@ -51,12 +51,12 @@ class SeleniumDriver():
             print_stack()
 
     def sendKeys(self, text, locator, locatorType="id"):
-        try:
+        #try:
             element = self.getElement(locator, locatorType)
             element.send_keys(text)
             self.log.info("Send Keys Successfully Locator :" + locator + "LocatorType :" + locatorType)
-        except:
-            self.log.info("Not Wirte to the Element Locator :" + locator + "LocatorType :" + locatorType)
+        #except:
+            #self.log.info("Not Wirte to the Element Locator :" + locator + "LocatorType :" + locatorType)
             print_stack()
 
     def isElementPresent(self, locator, locatorType="id"):

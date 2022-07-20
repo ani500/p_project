@@ -24,6 +24,7 @@ class FangatePage(SeleniumDriver):
     # Locators Fangate
     _share_music_link = "Share Music"
     _download_gate_button = "//a[@href='https://dev2.hypeddit.com/gate/create']"
+    _link_gate_button = "//a[@href='https://dev2.hypeddit.com/gate/create/url']"
     # source Section
     _track_url = "track_url"
     _source_next_button = "next_box1_button"
@@ -44,6 +45,17 @@ class FangatePage(SeleniumDriver):
     _design_next_button = "next_box5_button"
 
     # Gate Steps Section
+    # -------------------Email------------------
+
+    _add_email_step ="add_email_button"
+    _collect_email_id ="collect_email"
+    _collect_email = "//div[@class='checkbox']//label[@for='collect_email']"
+    _collect_email_names_id = "collect_email_names"
+    _collect_email_names = "//div[@class='checkbox']//label[@for='collect_email_names']"
+    _skippable_email_id = "skippable_email"
+    _skippable_email = "//div[@class='checkbox']//label[@for='skippable_email']"
+
+    # -------------------Soundcloud------------------
 
     _add_soundcloud_step = "add_soundcloud_button"
     _follow_profile = "//div[@class='checkbox']//label[@for='follow_sc']"
@@ -59,6 +71,7 @@ class FangatePage(SeleniumDriver):
     _add_scoundcloud_artist = "add_soundcloud_artist"
     _add_soundcloud_track = "add_soundcloud_track"
     _gate_step_next_button = "next_box6_button"
+
     # -------------------Youtube------------------
     _add_youtube_step = "add_youtube_button"
     _subscribe_yt_id = "subscribe_yt"
@@ -211,6 +224,26 @@ class FangatePage(SeleniumDriver):
     # Confirmation Section
     _create_fangate_button = "btn_create_fangate"
 
+    # -----------------------Link Gate section----------------
+    # Title Step
+    _link_artist_name = "artist_name"
+    _link_title = "track_title"
+    _link_titleSection_next_button = "next_box4_button"
+
+    # Secret Link Step
+    _link_custom_redir_url = "custom_redirection_url"
+    _link_SecretLink_next_button ="gate_secret_link_button"
+    # Unlock Button Text Step
+    _link_button_text_dropdown = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Select button text']"
+    _link_menu_select_dropdown = "//div[@class='dropdown-menu open']//span[text()='Download']"
+    _link_unlock_button_next_button = "next_box2_button"
+
+    # Design Section
+    _choose_coverart = "inputManualCoverart"
+
+    # Confirmation Section Link gate
+    _create_linkgate_button = "btn_create_linkgate"
+
     def clickOnTheLink(self):
         self.elementClick(self._login_link, "link")
 
@@ -228,6 +261,9 @@ class FangatePage(SeleniumDriver):
 
     def clickGateCreateLink(self):
         self.elementClick(self._download_gate_button, "xpath")
+
+    def clickLinkgateLink(self):
+        self.elementClick(self._link_gate_button, "xpath")
 
     def trackUrlSendKeys(self, trackurl):
         self.sendKeys(trackurl, self._track_url)
@@ -268,8 +304,18 @@ class FangatePage(SeleniumDriver):
     def clickOnNextDesign(self):
         self.elementClick(self._design_next_button)
 
+    def clickEmCollect(self):
+        self.checkRadioElementClick(self._collect_email, "xpath", self._collect_email_id)
+
+    def clickEmCollectName(self):
+        self.checkRadioElementClick(self._collect_email_names,"xpath", self._collect_email_names_id)
+
+    def clickEmSkippable(self):
+        self.checkRadioElementClick(self._skippable_email,"xpath", self._skippable_email_id)
+
+
     def clickScStep(self):
-        self.elementClick(self._add_soundcloud_step, "xpath")
+        self.elementClick(self._add_soundcloud_step)
 
     def clickScFollow(self):
         # self.elementClick(self._follow_profile, "xpath")
@@ -489,6 +535,37 @@ class FangatePage(SeleniumDriver):
     def dnEmailSendKeys(self, emailDn):
         self.sendKeys(emailDn, self._add_donation)
 
+    #-------------------Link Gate----------------
+
+    def artistNameSendkeys(self, artistname):
+        self.sendKeys(artistname, self._artist_name)
+
+    def artistTitleSendkeys(self, artistitle):
+        self.sendKeys(artistitle, self._link_title)
+
+    def clickTitleNextButton(self):
+        self.elementClick(self._title_next_button)
+
+    def secretSendKeys(self, secretLink):
+        self.sendKeys(secretLink, self._link_custom_redir_url)
+
+    def clickSecretNextButton(self):
+        self.elementClick(self._link_SecretLink_next_button)
+
+    def selectUnlockButtonText(self):
+        time.sleep(2)
+        self.elementClick(self._link_button_text_dropdown, "xpath")
+        time.sleep(2)
+        self.elementClick(self._link_menu_select_dropdown, "xpath" )
+
+    def clickUnlockNextButton(self):
+        self.elementClick(self._link_unlock_button_next_button)
+
+    def designSendKeys(self):
+        self.sendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\Tulips.jpg", self._choose_coverart)
+
+
+
 
 
     # ------------------------------xxx-------------------------------
@@ -539,6 +616,9 @@ class FangatePage(SeleniumDriver):
     def clickOnCreate(self):
         self.elementClick(self._create_fangate_button)
 
+    def clickOnCreatLinkGate(self):
+        self.elementClick(self._create_linkgate_button)
+
     def waitFor(self):
         self.waitForElement(self._dark_theme_radio_button)
 
@@ -560,32 +640,44 @@ class FangatePage(SeleniumDriver):
         time.sleep(10)
 
     def createFangate(self, artistname="sunil", trackurl="https://soundcloud.com/makelogin/sleep-away",
-                      artisttitle="verma", fbpixel=7, fbtoken=8):
-        time.sleep(5)
-        self.clickShareMusicLink()
-        time.sleep(5)
-        self.clickGateCreateLink()
+                      artisttitle="verma", fbpixel=7, fbtoken=8, Fg=1 ):
+        if Fg == 1:
+            time.sleep(5)
+            self.clickShareMusicLink()
+            time.sleep(5)
+            self.clickGateCreateLink()
 
-        self.source(trackurl)
-        time.sleep(2)
-        self.genre()
-        time.sleep(2)
-        self.upload()
-        time.sleep(2)
-        self.title(artistname, artisttitle)
-        time.sleep(2)
-        self.design()
-        self.gateSteps()
+            self.source(trackurl)
+            time.sleep(2)
+            self.genre()
+            time.sleep(2)
+            self.upload()
+            time.sleep(2)
+            self.title(artistname, artisttitle)
+            time.sleep(2)
+            self.design()
+        if Fg == 0:
+            time.sleep(5)
+            self.clickShareMusicLink()
+            time.sleep(5)
+            self.clickLinkgateLink()
+
+            self.linkTitle()
+            self.linkSecret()
+            self.linkUnlock()
+            self.linkDesignStep()
+
+        self.gateSteps(Fg)
         time.sleep(2)
         self.linkUrl()
         time.sleep(2)
-        self.releaseSettings()
+        self.releaseSettings(Fg)
         time.sleep(2)
         self.emailPromotion()
         time.sleep(2)
         self.trackingPixels(fbpixel, fbtoken)
         time.sleep(2)
-        self.confirmation()
+        self.confirmation(Fg)
         time.sleep(2)
 
     def clearFields(self):
@@ -630,14 +722,26 @@ class FangatePage(SeleniumDriver):
         time.sleep(1)
         self.clickOnNextDesign()
 
-    def gateSteps(self):
-        # self.clickScStep()
+    def gateSteps(self, Fg):
+        # ----------------Email Step------------------------------
+        time.sleep(3)
+        self.clickEmCollect()
+        self.clickEmCollectName()
+        self.clickEmSkippable()
+        # -------------------Soundlcoud Step---------------------------
+        if Fg == 0:
+            self.clickScStep()
+
         time.sleep(3)
         self.clickScFollow()
         self.clickScComment()
         self.clickScLike()
         self.clickScRepost()
         self.clickScSkippable()
+        if Fg == 0:
+            self.profileScSendKeys("https://soundcloud.com/makelogin")
+            self.trackScSendKeys("https://soundcloud.com/makelogin/sleep-away")
+
         # Skip Profile SC
         # Skip Title SC
 
@@ -771,13 +875,19 @@ class FangatePage(SeleniumDriver):
         # Skip Edit Custom Url
         # skip page text Edit
         # skip optional Edit
+        time.sleep(2)
+        self.clickOnNextLinkUrl()
+        time.sleep(1)
         self.clickOnNextLinkUrl()
 
 
-    def releaseSettings(self):
-        # self.clickPublic()
-        time.sleep(1)
-        self.clickNewRelease()
+
+
+    def releaseSettings(self,Fg):
+        if Fg == 1:
+            # self.clickPublic()
+            time.sleep(1)
+            self.clickNewRelease()
         time.sleep(1)
         self.clickOnNextReleaseSettings()
 
@@ -795,5 +905,39 @@ class FangatePage(SeleniumDriver):
         time.sleep(1)
         self.clickOnNextTrackingPixels()
 
-    def confirmation(self):
-        self.clickOnCreate()
+    def confirmation(self, Fg):
+        if Fg == 1:
+            self.clickOnCreate()
+        else:
+            self.clickOnCreatLinkGate()
+
+
+    def linkTitle(self):
+        time.sleep(1)
+        self.artistNameSendkeys("anil")
+        time.sleep(1)
+        self.artistTitleSendkeys("sharma")
+        time.sleep(1)
+        self.clickTitleNextButton()
+
+    def linkSecret(self):
+        time.sleep(1)
+        self.secretSendKeys("https://www.google.com")
+        time.sleep(1)
+        self.clickSecretNextButton()
+
+    def linkUnlock(self):
+        time.sleep(1)
+        self.selectUnlockButtonText()
+        time.sleep(1)
+        self.clickUnlockNextButton()
+
+    def linkDesignStep(self):
+        time.sleep(1)
+        self.designSendKeys()
+        time.sleep(5)
+        self.clickDarkScheme()
+        time.sleep(1)
+        time.sleep(1)
+        self.clickOnNextDesign()
+        time.sleep(1)
