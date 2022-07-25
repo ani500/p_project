@@ -17,8 +17,9 @@ class CreateFangateTests(unittest.TestCase):
         print("running createfnagate")
         self.fp.devUnlock("testdev123")
         self.lp.login("anil@baltech.in", "123456")
-        self.fp.createFangate(Fg=1)
-        self.fp.createFangate(Fg=0)
+        self.fp.createFangate(Fg="smartlink")
+        #self.fp.createFangate(Fg="linkgate")
+        #self.fp.createFangate(Fg="smartlink")
 
 
         # result = self.lp.verifyLoginSuccessful()

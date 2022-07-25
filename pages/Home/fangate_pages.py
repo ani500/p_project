@@ -2,6 +2,7 @@ import time
 from base.selenium_driver import SeleniumDriver
 import utilities.custom_logger as c1
 import logging
+from pages.Home.locators import Locators
 from pages.Home.login_pages import LoginPage
 
 
@@ -14,6 +15,7 @@ class FangatePage(SeleniumDriver):
         self.driver = driver
 
     # Locators
+
     _dev_unlock_password = "//form[@id='devlock']//input[@type='password']"
     _dev_unlock_button = "//div[@class='form-group']//button[@type='submit']"
     _login_link = "Login"
@@ -47,8 +49,8 @@ class FangatePage(SeleniumDriver):
     # Gate Steps Section
     # -------------------Email------------------
 
-    _add_email_step ="add_email_button"
-    _collect_email_id ="collect_email"
+    _add_email_step = "add_email_button"
+    _collect_email_id = "collect_email"
     _collect_email = "//div[@class='checkbox']//label[@for='collect_email']"
     _collect_email_names_id = "collect_email_names"
     _collect_email_names = "//div[@class='checkbox']//label[@for='collect_email_names']"
@@ -82,7 +84,7 @@ class FangatePage(SeleniumDriver):
     _add_channel_yt_name = "add_youtube_channel_custom_name"
     _yt_profile_add_button = "youtube_profile_add_button"
     # ---------------------xxxx------------------------------------------
-    #------------------------Spotify------------------------------------
+    # ------------------------Spotify------------------------------------
     _add_spotify_step = "add_spotify_button"
     _follow_sp_id = "follow_sp"
     _follow_sp = "//div[@class='checkbox']//label[@for='follow_sp']"
@@ -93,7 +95,7 @@ class FangatePage(SeleniumDriver):
     _add_artist_sp = "add_spotify_artist"
     _add_track_sp = "add_spotify_track"
 
-    #--------------------------Apple Step-----------------------------------------
+    # --------------------------Apple Step-----------------------------------------
 
     _add_apple_step = "add_apple_button"
     _like_ap_id = "like_ap"
@@ -115,7 +117,7 @@ class FangatePage(SeleniumDriver):
     _add_artist_dz = "add_deezer_artist"
     _add_track_dz = "add_deezer_track"
 
-    #----------------Mixcloud Step------------------------------------
+    # ----------------Mixcloud Step------------------------------------
 
     _add_mixcloud_step = "add_mixcloud_button"
     _follow_mc_id = "follow_mc"
@@ -150,7 +152,7 @@ class FangatePage(SeleniumDriver):
     _skippable_th_id = "skippable_th"
     _skippable_th = "//div[@class='checkbox']//label[@for='skippable_th']"
     _add_artist_th = "add_twitch_artist"
-    #-------------------Messenger Step ----------------------------
+    # -------------------Messenger Step ----------------------------
 
     _add_fb_msgr_step = "add_facebook_msgr_button"
     _subscribe_fb_msgr_id = "subscribe_fb_msgr"
@@ -161,7 +163,7 @@ class FangatePage(SeleniumDriver):
     _select_chatbot_fb_msgr = "//div[@class='dropdown-menu open']//span[text()='ManyChat']"
     _add_page_fb_msgr = "add_facebook_msgr"
 
-    #--------------------------Facebook step --------------------------------
+    # --------------------------Facebook step --------------------------------
 
     _add_facebook_step = "add_facebook_button"
     _share_fb_id = "share_fb"
@@ -171,7 +173,7 @@ class FangatePage(SeleniumDriver):
     _skippable_fb_id = "skippable_fb"
     _skippable_fb = "//div[@class='checkbox']//label[@for='skippable_fb']"
     _add_page_fb = "add_facebook"
-    #------------------------------------Instagram step-------------------
+    # ------------------------------------Instagram step-------------------
     _add_instagram_step = "add_instagram_button"
     _follow_ig_id = "follow_ig"
     _follow_ig = "//div[@class='checkbox']//label[@for='follow_ig']"
@@ -199,7 +201,7 @@ class FangatePage(SeleniumDriver):
     _add_donation_step = "add_donation_button"
     _add_donation = "donation_id"
 
-    #------------------------------------------------------------------------
+    # ------------------------------------------------------------------------
 
     # Link Url Section
     _edit_custom_link = "edit_custom_link"
@@ -232,7 +234,7 @@ class FangatePage(SeleniumDriver):
 
     # Secret Link Step
     _link_custom_redir_url = "custom_redirection_url"
-    _link_SecretLink_next_button ="gate_secret_link_button"
+    _link_SecretLink_next_button = "gate_secret_link_button"
     # Unlock Button Text Step
     _link_button_text_dropdown = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Select button text']"
     _link_menu_select_dropdown = "//div[@class='dropdown-menu open']//span[text()='Download']"
@@ -243,6 +245,119 @@ class FangatePage(SeleniumDriver):
 
     # Confirmation Section Link gate
     _create_linkgate_button = "btn_create_linkgate"
+
+    # -----------------Smartlink Section ---------------------
+    _smartlink_gate_button = "//a[@href='https://dev2.hypeddit.com/smartlink/create']"
+    _audio_preview_next_button = "next_box8_button"
+
+    # Spotify Step
+
+    _save_track_spotify_id= "save_track_spotify"
+    _save_track_spotify =  "//div[@class='checkbox']//label[@for='save_track_spotify']"
+
+    _email_capture_spotify_id = "email_capture_spotify"
+    _email_capture_spotify = "//div[@class='checkbox']//label[@for='email_capture_spotify']"
+
+    _add_to_playlist_spotify_id = "add_to_playlist_spotify"
+    _add_to_playlist_spotify = "//div[@class='checkbox']//label[@for='add_to_playlist_spotify']"
+
+    _follow_spotify_id = "follow_spotify"
+    _follow_spotify = "//div[@class='checkbox']//label[@for='follow_spotify']"
+
+    # Apple Step
+
+    _save_track_imusic_id = "save_track_imusic"
+    _save_track_imusic = "//div[@class='checkbox']//label[@for='save_track_imusic']"
+
+    _add_to_playlist_imusic_id = "add_to_playlist_imusic"
+    _add_to_playlist_imusic = "//div[@class='checkbox']//label[@for='add_to_playlist_imusic']"
+
+    _follow_imusic_id = "follow_imusic"
+    _follow_imusic = "//div[@class='checkbox']//label[@for='follow_imusic']"
+
+    # Deezer Section
+
+    _save_track_deezer_id = "save_track_deezer"
+    _save_track_deezer = "//div[@class='checkbox']//label[@for='save_track_deezer']"
+
+    _email_capture_deezer_id = "email_capture_deezer"
+    _email_capture_deezer = "//div[@class='checkbox']//label[@for='email_capture_deezer']"
+
+    _add_to_playlist_deezer_id = "add_to_playlist_deezer"
+    _add_to_playlist_deezer = "//div[@class='checkbox']//label[@for='add_to_playlist_deezer']"
+
+    _follow_deezer_id = "follow_deezer"
+    _follow_deezer = "//div[@class='checkbox']//label[@for='follow_deezer']"
+
+    # youtube Step
+    _add_link_url_new18_yt = "add_link_url_new18"
+
+    _add_youtubemusic_button = "add_youtubemusic_button"
+    _add_link_url_new19_ytmusic = "add_link_url_new19"
+
+    _add_amazon_button = "add_amazon_button"
+    _add_link_url_new20_amazon = "add_link_url_new20"
+
+    _add_amazonmusic_button = "add_amazonmusic_button"
+    _add_link_url_new21_amzmusic = "add_link_url_new21"
+
+    _add_google_button = "add_google_button"
+    _add_link_url_new22_google = "add_link_url_new22"
+
+    _add_googleplay_button = "add_googleplay_button"
+    _add_link_url_new23_googleplay = "add_link_url_new23"
+
+    _add_beatport_button = "add_beatport_button"
+    _add_link_url_new24_beatport = "add_link_url_new24"
+
+    _add_tidal_button ="add_tidal_button"
+    _add_link_url_new25_tidal = "add_link_url_new25"
+
+    _add_pandora_button = "add_pandora_button"
+    _add_link_url_new26_pandora = "add_link_url_new26"
+
+    _add_yandex_button = "add_yandex_button"
+    _add_link_url_new27_yandex = "add_link_url_new27"
+
+    _add_hypeddit_button = "add_hypeddit_button"
+    _add_link_url_new28_hypeddit = "add_link_url_new28"
+
+    _add_bandcamp_button = "add_bandcamp_button"
+    _add_link_url_new29_bandcamp = "add_link_url_new29"
+
+    _add_junodownload_button = "add_junodownload_button"
+    _add_link_url_new30_junodownload = "add_link_url_new30"
+
+    _add_traxsource_button ="add_traxsource_button"
+    _add_link_url_new31_tracksource = "add_link_url_new31"
+
+    _add_tiktok_button = "add_tiktok_button"
+    _add_link_url_new32_tiktok = "add_link_url_new32"
+
+    _add_share_button = "add_share_button"
+
+    # Email Capture Section
+    _add_fanclub_button = "add_fanclub_button"
+    _email_link_id = "email_link"
+    _email_link = "//div[@class='checkbox']//label[@for='email_link']"
+    _email_exit ="email_exit"
+    _email_exit = "//div[@class='checkbox']//label[@for='email_exit']"
+    _add_link_type_text_new37 = "add_link_type_text_new37"
+    _add_button_text_new37 = "add_button_text_new37"
+    _subscription_heading = "subscription_heading"
+    _subscription_description = "subscription_description"
+    _close_button_text = "close_button_text"
+    _fanclubCapturePreview_button = "fanclubCapturePreview"
+
+    # Custom Section
+    _add_custom_button = "add_custom_button"
+    _add_link_type_text_new38 = "add_link_type_text_new38"
+    _add_link_url_new38 = "add_link_url_new38"
+
+    _custom_dropdown = "//button[@class='btn dropdown-toggle btn-default']//span[text()='PLAY']"
+    _select_text = "//ul[@class='dropdown-menu inner']//span[text()='DOWNLOAD']"
+
+
 
     def clickOnTheLink(self):
         self.elementClick(self._login_link, "link")
@@ -308,11 +423,10 @@ class FangatePage(SeleniumDriver):
         self.checkRadioElementClick(self._collect_email, "xpath", self._collect_email_id)
 
     def clickEmCollectName(self):
-        self.checkRadioElementClick(self._collect_email_names,"xpath", self._collect_email_names_id)
+        self.checkRadioElementClick(self._collect_email_names, "xpath", self._collect_email_names_id)
 
     def clickEmSkippable(self):
-        self.checkRadioElementClick(self._skippable_email,"xpath", self._skippable_email_id)
-
+        self.checkRadioElementClick(self._skippable_email, "xpath", self._skippable_email_id)
 
     def clickScStep(self):
         self.elementClick(self._add_soundcloud_step)
@@ -348,7 +462,7 @@ class FangatePage(SeleniumDriver):
     def clickYtSkippable(self):
         self.checkRadioElementClick(self._skippable_yt, "xpath", self._skippable_yt_id)
 
-    def ytChannelSendKeys(self,url):
+    def ytChannelSendKeys(self, url):
         self.sendKeys(url, self._add_channel_yt_url)
 
     def ytChannelNameSendKeys(self, cName):
@@ -387,8 +501,8 @@ class FangatePage(SeleniumDriver):
     def clickApSkippable(self):
         self.checkRadioElementClick(self._skippable_ap, "xpath", self._skippable_ap_id)
 
-    def apTrackSendKeys(self,trackUrlAp):
-        self.sendKeys(trackUrlAp,self._add_artist_ap)
+    def apTrackSendKeys(self, trackUrlAp):
+        self.sendKeys(trackUrlAp, self._add_artist_ap)
 
     def clickDzStep(self):
         self.elementClick(self._add_deezer_step)
@@ -407,8 +521,6 @@ class FangatePage(SeleniumDriver):
 
     def dzTrackSendKeys(self, trackUrlDz):
         self.sendKeys(trackUrlDz, self._add_track_dz)
-
-
 
     def clickMcStep(self):
         self.elementClick(self._add_mixcloud_step)
@@ -535,7 +647,7 @@ class FangatePage(SeleniumDriver):
     def dnEmailSendKeys(self, emailDn):
         self.sendKeys(emailDn, self._add_donation)
 
-    #-------------------Link Gate----------------
+    # -------------------Link Gate----------------
 
     def artistNameSendkeys(self, artistname):
         self.sendKeys(artistname, self._artist_name)
@@ -556,7 +668,7 @@ class FangatePage(SeleniumDriver):
         time.sleep(2)
         self.elementClick(self._link_button_text_dropdown, "xpath")
         time.sleep(2)
-        self.elementClick(self._link_menu_select_dropdown, "xpath" )
+        self.elementClick(self._link_menu_select_dropdown, "xpath")
 
     def clickUnlockNextButton(self):
         self.elementClick(self._link_unlock_button_next_button)
@@ -564,12 +676,15 @@ class FangatePage(SeleniumDriver):
     def designSendKeys(self):
         self.sendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\Tulips.jpg", self._choose_coverart)
 
+    # ------------------Smartlink ---------------------------------------------------
+    def clickSmartlinkLink(self):
+        self.elementClick(self._smartlink_gate_button, "xpath")
 
-
+    def clickAudioNextButton(self):
+        self.elementClick(self._audio_preview_next_button)
 
 
     # ------------------------------xxx-------------------------------
-
 
     def clickOnNextGateSteps(self):
         self.elementClick(self._gate_step_next_button)
@@ -628,26 +743,15 @@ class FangatePage(SeleniumDriver):
     def devUnlockbuttonClick(self):
         self.elementClick(self._dev_unlock_button, "xpath")
 
-    def login(self, email="", password=""):
-        self.driver.get("https://dev2.hypeddit.com")
-        time.sleep(10)
-        self.driver.get("https://dev2.hypeddit.com")
-        self.clickOnTheLink()
-        self.clearFields()
-        self.emailSendKeys(email)
-        self.passwordSendKeys(password)
-        self.clickOnTheLoginButton()
-        time.sleep(10)
-
-    def createFangate(self, artistname="sunil", trackurl="https://soundcloud.com/makelogin/sleep-away",
-                      artisttitle="verma", fbpixel=7, fbtoken=8, Fg=1 ):
-        if Fg == 1:
+    def createFangate(self, Fg, artistname="sunil", trackurl="https://soundcloud.com/makelogin/sleep-away",
+                      artisttitle="verma", fbpixel=7, fbtoken=8):
+        if Fg == "fangate":
             time.sleep(5)
             self.clickShareMusicLink()
-            time.sleep(5)
+            time.sleep(1)
             self.clickGateCreateLink()
 
-            self.source(trackurl)
+            self.source(trackurl, Fg)
             time.sleep(2)
             self.genre()
             time.sleep(2)
@@ -656,10 +760,10 @@ class FangatePage(SeleniumDriver):
             self.title(artistname, artisttitle)
             time.sleep(2)
             self.design()
-        if Fg == 0:
+        if Fg == "linkgate":
             time.sleep(5)
             self.clickShareMusicLink()
-            time.sleep(5)
+            time.sleep(1)
             self.clickLinkgateLink()
 
             self.linkTitle()
@@ -667,14 +771,42 @@ class FangatePage(SeleniumDriver):
             self.linkUnlock()
             self.linkDesignStep()
 
-        self.gateSteps(Fg)
+        if Fg == "smartlink":
+            time.sleep(5)
+            self.clickShareMusicLink()
+            time.sleep(1)
+            self.clickSmartlinkLink()
+            self.source("USNRS1229743", Fg)
+            time.sleep(2)
+            self.genre()
+            time.sleep(2)
+            # self.upload()
+            # time.sleep(2)
+            self.title(artistname, artisttitle)
+            time.sleep(2)
+            self.design()
+
+        if Fg == "fangate":
+            self.gateSteps(Fg)
+        elif Fg == "linkgate":
+            self.gateSteps(Fg)
+        elif Fg == "smartlink":
+            self.linkSteps()
+
         time.sleep(2)
         self.linkUrl()
         time.sleep(2)
         self.releaseSettings(Fg)
         time.sleep(2)
-        self.emailPromotion()
-        time.sleep(2)
+
+        if Fg == "fangate":
+            self.emailPromotion()
+        elif Fg == "linkgate":
+            self.emailPromotion()
+        elif Fg == "smartlink":
+            self.audioPreview()
+            time.sleep(2)
+
         self.trackingPixels(fbpixel, fbtoken)
         time.sleep(2)
         self.confirmation(Fg)
@@ -691,12 +823,17 @@ class FangatePage(SeleniumDriver):
         self.devUnlockPasswordSendkeys(unlockpassword)
         self.devUnlockbuttonClick()
 
-    def source(self, trackurl):
+    def source(self, trackurl, Fg):
         self.trackUrlSendKeys(trackurl)
         time.sleep(1)
         self.clickOnNextSource()
+        if Fg == "smartlink":
+            time.sleep(20)
+        else:
+            time.sleep(2)
 
     def genre(self):
+        time.sleep(5)
         self.clickOnGenreCaret()
         time.sleep(1)
         self.selectGenre()
@@ -729,7 +866,7 @@ class FangatePage(SeleniumDriver):
         self.clickEmCollectName()
         self.clickEmSkippable()
         # -------------------Soundlcoud Step---------------------------
-        if Fg == 0:
+        if Fg == "linkgate":
             self.clickScStep()
 
         time.sleep(3)
@@ -738,15 +875,14 @@ class FangatePage(SeleniumDriver):
         self.clickScLike()
         self.clickScRepost()
         self.clickScSkippable()
-        if Fg == 0:
+        if Fg == "linkgate":
             self.profileScSendKeys("https://soundcloud.com/makelogin")
             self.trackScSendKeys("https://soundcloud.com/makelogin/sleep-away")
 
         # Skip Profile SC
         # Skip Title SC
 
-
-    # --------------------Youtube Step---------------------------
+        # --------------------Youtube Step---------------------------
         time.sleep(3)
         self.clickYtStep()
         time.sleep(3)
@@ -766,9 +902,7 @@ class FangatePage(SeleniumDriver):
         self.clickApSkippable()
         self.apTrackSendKeys("https://music.apple.com/in/album/humdard/1111741333?i=1111741446")
 
-
-
-        #-------------------------------Spotify Step --------------------------
+        # -------------------------------Spotify Step --------------------------
 
         time.sleep(3)
         self.clickSpStep()
@@ -778,10 +912,6 @@ class FangatePage(SeleniumDriver):
         self.clickSpSkippable()
         self.spProfileSendKeys("https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql")
         self.spTrackSendKeys("https://open.spotify.com/track/0VbRRS6pOgCvepxNiAz2fY")
-
-
-
-
 
         # ---------------------Deezer Step------------------------------
         time.sleep(3)
@@ -865,12 +995,6 @@ class FangatePage(SeleniumDriver):
         time.sleep(1)
         self.clickOnNextGateSteps()
 
-
-
-
-
-
-
     def linkUrl(self):
         # Skip Edit Custom Url
         # skip page text Edit
@@ -880,14 +1004,15 @@ class FangatePage(SeleniumDriver):
         time.sleep(1)
         self.clickOnNextLinkUrl()
 
-
-
-
-    def releaseSettings(self,Fg):
-        if Fg == 1:
+    def releaseSettings(self, Fg):
+        if Fg == "fangate":
             # self.clickPublic()
             time.sleep(1)
             self.clickNewRelease()
+        elif Fg == "smartlink":
+            time.sleep(1)
+            self.clickNewRelease()
+
         time.sleep(1)
         self.clickOnNextReleaseSettings()
 
@@ -906,11 +1031,12 @@ class FangatePage(SeleniumDriver):
         self.clickOnNextTrackingPixels()
 
     def confirmation(self, Fg):
-        if Fg == 1:
+        if Fg == "fangate":
+            self.clickOnCreate()
+        elif Fg == "smartlink":
             self.clickOnCreate()
         else:
             self.clickOnCreatLinkGate()
-
 
     def linkTitle(self):
         time.sleep(1)
@@ -941,3 +1067,9 @@ class FangatePage(SeleniumDriver):
         time.sleep(1)
         self.clickOnNextDesign()
         time.sleep(1)
+
+    def audioPreview(self):
+        self.clickAudioNextButton()
+
+    def linkSteps(self):
+        self.clickOnNextGateSteps()
