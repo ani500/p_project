@@ -16524,3 +16524,159 @@
 07/25/2022 03:07:20 PM - FangatePage - INFO: Clicked on the Element Locator :gate_custom_fbpixel_buttonLocatorType :id
 07/25/2022 03:07:22 PM - FangatePage - INFO: Element Found Locator :btn_create_fangateLocatorType :id
 07/25/2022 03:07:23 PM - FangatePage - INFO: Clicked on the Element Locator :btn_create_fangateLocatorType :id
+07/25/2022 04:56:32 PM - FangatePage - INFO: Element Found Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+07/25/2022 04:56:32 PM - FangatePage - INFO: Send Keys Successfully Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+07/25/2022 04:56:32 PM - FangatePage - INFO: Element Found Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+07/25/2022 04:56:40 PM - FangatePage - INFO: Clicked on the Element Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+07/25/2022 04:56:53 PM - LoginPage - INFO: Element Found Locator :LoginLocatorType :link
+07/25/2022 04:56:54 PM - LoginPage - INFO: Clicked on the Element Locator :LoginLocatorType :link
+07/25/2022 04:56:54 PM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+07/25/2022 04:56:54 PM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+07/25/2022 04:56:54 PM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+07/25/2022 04:56:54 PM - LoginPage - INFO: Send Keys Successfully Locator :login_emailLocatorType :id
+07/25/2022 04:56:54 PM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+07/25/2022 04:56:55 PM - LoginPage - INFO: Send Keys Successfully Locator :login_passwordLocatorType :id
+07/25/2022 04:56:55 PM - LoginPage - INFO: Element Found Locator :login_buttonLocatorType :id
+07/25/2022 04:57:00 PM - LoginPage - INFO: Clicked on the Element Locator :login_buttonLocatorType :id
+07/25/2022 04:57:05 PM - FangatePage - INFO: Element Found Locator :Share MusicLocatorType :link
+07/25/2022 04:57:06 PM - FangatePage - INFO: Clicked on the Element Locator :Share MusicLocatorType :link
+07/25/2022 04:57:07 PM - FangatePage - INFO: Element Found Locator ://a[@href='https://dev2.hypeddit.com/smartlink/create']LocatorType :xpath
+07/25/2022 04:57:08 PM - FangatePage - INFO: Clicked on the Element Locator ://a[@href='https://dev2.hypeddit.com/smartlink/create']LocatorType :xpath
+07/25/2022 04:57:08 PM - FangatePage - INFO: Element Found Locator :track_urlLocatorType :id
+07/25/2022 04:57:08 PM - FangatePage - INFO: Send Keys Successfully Locator :track_urlLocatorType :id
+07/25/2022 04:57:09 PM - FangatePage - INFO: Element Found Locator :next_box1_buttonLocatorType :id
+07/25/2022 04:57:10 PM - FangatePage - INFO: Clicked on the Element Locator :next_box1_buttonLocatorType :id
+07/25/2022 04:57:37 PM - FangatePage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select genre']LocatorType :xpath
+07/25/2022 04:57:37 PM - FangatePage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select genre']LocatorType :xpath
+07/25/2022 04:57:38 PM - FangatePage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Bass']LocatorType :xpath
+07/25/2022 04:57:38 PM - FangatePage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Bass']LocatorType :xpath
+07/25/2022 04:57:39 PM - FangatePage - INFO: Element Found Locator :next_box2_buttonLocatorType :id
+07/25/2022 04:57:40 PM - FangatePage - INFO: Clicked on the Element Locator :next_box2_buttonLocatorType :id
+07/25/2022 04:57:42 PM - FangatePage - INFO: Element Found Locator :artist_nameLocatorType :id
+07/25/2022 04:57:42 PM - FangatePage - INFO: Send Keys Successfully Locator :artist_nameLocatorType :id
+07/25/2022 04:57:43 PM - FangatePage - INFO: Element Found Locator :track_titleLocatorType :id
+07/25/2022 04:57:43 PM - FangatePage - INFO: Send Keys Successfully Locator :track_titleLocatorType :id
+07/25/2022 04:57:44 PM - FangatePage - INFO: Element Found Locator :next_box4_buttonLocatorType :id
+07/25/2022 04:57:44 PM - FangatePage - INFO: Clicked on the Element Locator :next_box4_buttonLocatorType :id
+07/25/2022 04:57:46 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='dark_theme']LocatorType :xpath
+07/25/2022 04:57:46 PM - FangatePage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='dark_theme']LocatorType :xpath
+07/25/2022 04:57:47 PM - FangatePage - INFO: Element Found Locator :next_box5_buttonLocatorType :id
+07/25/2022 04:57:47 PM - FangatePage - INFO: Clicked on the Element Locator :next_box5_buttonLocatorType :id
+07/25/2022 04:57:48 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='save_track_spotify']LocatorType :xpath
+07/25/2022 04:57:48 PM - FangatePage - INFO: Element Found Locator :save_track_spotifyLocatorType :id
+07/25/2022 04:57:49 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='save_track_spotify']LocatorType :xpath
+07/25/2022 04:57:49 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='email_capture_spotify']LocatorType :xpath
+07/25/2022 04:57:49 PM - FangatePage - INFO: Element Found Locator :email_capture_spotifyLocatorType :id
+07/25/2022 04:57:49 PM - FangatePage - INFO:  Element already Checked ://div[@class='checkbox']//label[@for='email_capture_spotify']LocatorType :xpath
+07/25/2022 04:57:49 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='add_to_playlist_spotify']LocatorType :xpath
+07/25/2022 04:57:49 PM - FangatePage - INFO: Element Found Locator :add_to_playlist_spotifyLocatorType :id
+07/25/2022 04:57:49 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='add_to_playlist_spotify']LocatorType :xpath
+07/25/2022 04:57:49 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='follow_spotify']LocatorType :xpath
+07/25/2022 04:57:49 PM - FangatePage - INFO: Element Found Locator :follow_spotifyLocatorType :id
+07/25/2022 04:57:49 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='follow_spotify']LocatorType :xpath
+07/25/2022 04:57:49 PM - FangatePage - INFO: Element Found Locator :add_spotify_artistLocatorType :id
+07/25/2022 04:57:49 PM - FangatePage - INFO: Send Keys Successfully Locator :add_spotify_artistLocatorType :id
+07/25/2022 04:57:53 PM - FangatePage - INFO: Element Not Found Locator ://div[@class='checkbox']//label[@for='save_track_ap']LocatorType :xpath
+07/25/2022 04:57:56 PM - FangatePage - INFO: Element Not Found Locator :save_track_apLocatorType :id
+07/25/2022 04:57:56 PM - FangatePage - INFO: Cannot clicked on the Element Locator ://div[@class='checkbox']//label[@for='save_track_ap']LocatorType :xpath
+07/25/2022 04:57:56 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='add_to_playlist_imusic']LocatorType :xpath
+07/25/2022 04:57:56 PM - FangatePage - INFO: Element Found Locator :add_to_playlist_imusicLocatorType :id
+07/25/2022 04:57:57 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='add_to_playlist_imusic']LocatorType :xpath
+07/25/2022 04:57:57 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='follow_imusic']LocatorType :xpath
+07/25/2022 04:57:57 PM - FangatePage - INFO: Element Found Locator :follow_imusicLocatorType :id
+07/25/2022 04:57:57 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='follow_imusic']LocatorType :xpath
+07/25/2022 04:57:58 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='save_track_deezer']LocatorType :xpath
+07/25/2022 04:57:58 PM - FangatePage - INFO: Element Found Locator :save_track_deezerLocatorType :id
+07/25/2022 04:57:58 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='save_track_deezer']LocatorType :xpath
+07/25/2022 04:57:58 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='email_capture_deezer']LocatorType :xpath
+07/25/2022 04:57:58 PM - FangatePage - INFO: Element Found Locator :email_capture_deezerLocatorType :id
+07/25/2022 04:57:58 PM - FangatePage - INFO:  Element already Checked ://div[@class='checkbox']//label[@for='email_capture_deezer']LocatorType :xpath
+07/25/2022 04:57:58 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='add_to_playlist_deezer']LocatorType :xpath
+07/25/2022 04:57:58 PM - FangatePage - INFO: Element Found Locator :add_to_playlist_deezerLocatorType :id
+07/25/2022 04:57:59 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='add_to_playlist_deezer']LocatorType :xpath
+07/25/2022 04:57:59 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='follow_deezer']LocatorType :xpath
+07/25/2022 04:57:59 PM - FangatePage - INFO: Element Found Locator :follow_deezerLocatorType :id
+07/25/2022 04:57:59 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='follow_deezer']LocatorType :xpath
+07/25/2022 04:57:59 PM - FangatePage - INFO: Element Found Locator :add_deezer_artistLocatorType :id
+07/25/2022 04:57:59 PM - FangatePage - INFO: Send Keys Successfully Locator :add_deezer_artistLocatorType :id
+07/25/2022 04:58:02 PM - FangatePage - INFO: Element Not Found Locator :add_link_url_new28LocatorType :id
+07/25/2022 04:58:02 PM - FangatePage - INFO: Cannot clicked on the Element Locator :add_link_url_new28LocatorType :id
+07/25/2022 04:58:06 PM - FangatePage - INFO: Element Not Found Locator :add_link_url_new28LocatorType :id
+07/25/2022 05:01:25 PM - FangatePage - INFO: Element Found Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+07/25/2022 05:01:26 PM - FangatePage - INFO: Send Keys Successfully Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+07/25/2022 05:01:26 PM - FangatePage - INFO: Element Found Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+07/25/2022 05:01:30 PM - FangatePage - INFO: Clicked on the Element Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+07/25/2022 05:01:44 PM - LoginPage - INFO: Element Found Locator :LoginLocatorType :link
+07/25/2022 05:01:44 PM - LoginPage - INFO: Clicked on the Element Locator :LoginLocatorType :link
+07/25/2022 05:01:44 PM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+07/25/2022 05:01:44 PM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+07/25/2022 05:01:44 PM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+07/25/2022 05:01:45 PM - LoginPage - INFO: Send Keys Successfully Locator :login_emailLocatorType :id
+07/25/2022 05:01:45 PM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+07/25/2022 05:01:45 PM - LoginPage - INFO: Send Keys Successfully Locator :login_passwordLocatorType :id
+07/25/2022 05:01:45 PM - LoginPage - INFO: Element Found Locator :login_buttonLocatorType :id
+07/25/2022 05:02:23 PM - LoginPage - INFO: Clicked on the Element Locator :login_buttonLocatorType :id
+07/25/2022 05:02:28 PM - FangatePage - INFO: Element Found Locator :Share MusicLocatorType :link
+07/25/2022 05:02:29 PM - FangatePage - INFO: Clicked on the Element Locator :Share MusicLocatorType :link
+07/25/2022 05:02:30 PM - FangatePage - INFO: Element Found Locator ://a[@href='https://dev2.hypeddit.com/smartlink/create']LocatorType :xpath
+07/25/2022 05:02:32 PM - FangatePage - INFO: Clicked on the Element Locator ://a[@href='https://dev2.hypeddit.com/smartlink/create']LocatorType :xpath
+07/25/2022 05:02:32 PM - FangatePage - INFO: Element Found Locator :track_urlLocatorType :id
+07/25/2022 05:02:32 PM - FangatePage - INFO: Send Keys Successfully Locator :track_urlLocatorType :id
+07/25/2022 05:02:33 PM - FangatePage - INFO: Element Found Locator :next_box1_buttonLocatorType :id
+07/25/2022 05:02:33 PM - FangatePage - INFO: Clicked on the Element Locator :next_box1_buttonLocatorType :id
+07/25/2022 05:03:00 PM - FangatePage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select genre']LocatorType :xpath
+07/25/2022 05:03:00 PM - FangatePage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select genre']LocatorType :xpath
+07/25/2022 05:03:01 PM - FangatePage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Bass']LocatorType :xpath
+07/25/2022 05:03:02 PM - FangatePage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Bass']LocatorType :xpath
+07/25/2022 05:03:03 PM - FangatePage - INFO: Element Found Locator :next_box2_buttonLocatorType :id
+07/25/2022 05:03:03 PM - FangatePage - INFO: Clicked on the Element Locator :next_box2_buttonLocatorType :id
+07/25/2022 05:03:05 PM - FangatePage - INFO: Element Found Locator :artist_nameLocatorType :id
+07/25/2022 05:03:05 PM - FangatePage - INFO: Send Keys Successfully Locator :artist_nameLocatorType :id
+07/25/2022 05:03:06 PM - FangatePage - INFO: Element Found Locator :track_titleLocatorType :id
+07/25/2022 05:03:06 PM - FangatePage - INFO: Send Keys Successfully Locator :track_titleLocatorType :id
+07/25/2022 05:03:07 PM - FangatePage - INFO: Element Found Locator :next_box4_buttonLocatorType :id
+07/25/2022 05:03:07 PM - FangatePage - INFO: Clicked on the Element Locator :next_box4_buttonLocatorType :id
+07/25/2022 05:03:09 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='dark_theme']LocatorType :xpath
+07/25/2022 05:03:09 PM - FangatePage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='dark_theme']LocatorType :xpath
+07/25/2022 05:03:10 PM - FangatePage - INFO: Element Found Locator :next_box5_buttonLocatorType :id
+07/25/2022 05:03:11 PM - FangatePage - INFO: Clicked on the Element Locator :next_box5_buttonLocatorType :id
+07/25/2022 05:03:12 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='save_track_spotify']LocatorType :xpath
+07/25/2022 05:03:12 PM - FangatePage - INFO: Element Found Locator :save_track_spotifyLocatorType :id
+07/25/2022 05:03:12 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='save_track_spotify']LocatorType :xpath
+07/25/2022 05:03:12 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='email_capture_spotify']LocatorType :xpath
+07/25/2022 05:03:12 PM - FangatePage - INFO: Element Found Locator :email_capture_spotifyLocatorType :id
+07/25/2022 05:03:12 PM - FangatePage - INFO:  Element already Checked ://div[@class='checkbox']//label[@for='email_capture_spotify']LocatorType :xpath
+07/25/2022 05:03:12 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='add_to_playlist_spotify']LocatorType :xpath
+07/25/2022 05:03:12 PM - FangatePage - INFO: Element Found Locator :add_to_playlist_spotifyLocatorType :id
+07/25/2022 05:03:12 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='add_to_playlist_spotify']LocatorType :xpath
+07/25/2022 05:03:12 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='follow_spotify']LocatorType :xpath
+07/25/2022 05:03:12 PM - FangatePage - INFO: Element Found Locator :follow_spotifyLocatorType :id
+07/25/2022 05:03:13 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='follow_spotify']LocatorType :xpath
+07/25/2022 05:03:13 PM - FangatePage - INFO: Element Found Locator :add_spotify_artistLocatorType :id
+07/25/2022 05:03:13 PM - FangatePage - INFO: Send Keys Successfully Locator :add_spotify_artistLocatorType :id
+07/25/2022 05:03:17 PM - FangatePage - INFO: Element Not Found Locator ://div[@class='checkbox']//label[@for='save_track_ap']LocatorType :xpath
+07/25/2022 05:03:20 PM - FangatePage - INFO: Element Not Found Locator :save_track_apLocatorType :id
+07/25/2022 05:03:20 PM - FangatePage - INFO: Cannot clicked on the Element Locator ://div[@class='checkbox']//label[@for='save_track_ap']LocatorType :xpath
+07/25/2022 05:03:20 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='add_to_playlist_imusic']LocatorType :xpath
+07/25/2022 05:03:20 PM - FangatePage - INFO: Element Found Locator :add_to_playlist_imusicLocatorType :id
+07/25/2022 05:03:20 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='add_to_playlist_imusic']LocatorType :xpath
+07/25/2022 05:03:20 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='follow_imusic']LocatorType :xpath
+07/25/2022 05:03:20 PM - FangatePage - INFO: Element Found Locator :follow_imusicLocatorType :id
+07/25/2022 05:03:20 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='follow_imusic']LocatorType :xpath
+07/25/2022 05:03:21 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='save_track_deezer']LocatorType :xpath
+07/25/2022 05:03:21 PM - FangatePage - INFO: Element Found Locator :save_track_deezerLocatorType :id
+07/25/2022 05:03:22 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='save_track_deezer']LocatorType :xpath
+07/25/2022 05:03:22 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='email_capture_deezer']LocatorType :xpath
+07/25/2022 05:03:22 PM - FangatePage - INFO: Element Found Locator :email_capture_deezerLocatorType :id
+07/25/2022 05:03:22 PM - FangatePage - INFO:  Element already Checked ://div[@class='checkbox']//label[@for='email_capture_deezer']LocatorType :xpath
+07/25/2022 05:03:22 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='add_to_playlist_deezer']LocatorType :xpath
+07/25/2022 05:03:22 PM - FangatePage - INFO: Element Found Locator :add_to_playlist_deezerLocatorType :id
+07/25/2022 05:03:22 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='add_to_playlist_deezer']LocatorType :xpath
+07/25/2022 05:03:22 PM - FangatePage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='follow_deezer']LocatorType :xpath
+07/25/2022 05:03:22 PM - FangatePage - INFO: Element Found Locator :follow_deezerLocatorType :id
+07/25/2022 05:03:22 PM - FangatePage - INFO:  Clicked on the Element Locator ://div[@class='checkbox']//label[@for='follow_deezer']LocatorType :xpath
+07/25/2022 05:03:22 PM - FangatePage - INFO: Element Found Locator :add_deezer_artistLocatorType :id
+07/25/2022 05:03:22 PM - FangatePage - INFO: Send Keys Successfully Locator :add_deezer_artistLocatorType :id
+07/25/2022 05:03:23 PM - FangatePage - INFO: Element Found Locator :add_hypeddit_buttonLocatorType :id
+07/25/2022 05:03:23 PM - FangatePage - INFO: Clicked on the Element Locator :add_hypeddit_buttonLocatorType :id
+07/25/2022 05:03:28 PM - FangatePage - INFO: Element Not Found Locator :add_link_url_new28LocatorType :id

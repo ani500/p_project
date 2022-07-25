@@ -725,7 +725,7 @@ class FangatePage(SeleniumDriver):
     # Hypeddit Section
 
     def clickHypedditStep(self):
-        self.elementClick(self._add_link_url_new28_hypeddit)
+        self.elementClick(self._add_hypeddit_button)
 
     def hypedditUrlSendKeys(self, Urlhy):
         self.sendKeys(Urlhy,self._add_link_url_new28_hypeddit)
@@ -1186,10 +1186,38 @@ class FangatePage(SeleniumDriver):
         self.dzArtistSendKeys("https://www.deezer.com/us/artist/661247")
 
         # Hypeddit Step
+        time.sleep(1)
         self.clickHypedditStep()
         time.sleep(1)
         self.hypedditUrlSendKeys("https://www.hypeddit.com/track/vz2rfn")
 
+        # Email Capture Step
+        self.clickEmStep()
+        self.clickEmCaptSubscribe()
+        self.emCaptSubscribeExit()
 
 
         self.clickOnNextGateSteps()
+        self.emCaptlinkNameSendKeys("my name")
+        self.emCaptlinkButtonSendKeys("link Button")
+        self.emCaptHeadLineSendKeys("Sub Heading")
+        self.emCaptParagraphSendKeys("Paragraph")
+        self.emCaptButtonJoinSendKeys("Buttton Join")
+
+        self.clickOnNextGateSteps()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
