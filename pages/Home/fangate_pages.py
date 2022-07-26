@@ -1,4 +1,3 @@
-import pytest
 import time
 from base.selenium_driver import SeleniumDriver
 import utilities.custom_logger as c1
@@ -837,17 +836,19 @@ class FangatePage(SeleniumDriver):
     def devUnlockbuttonClick(self):
         self.elementClick(self._dev_unlock_button, "xpath")
 
+    def waitFl(self,loc,lid="id"):
+        self.waitForElement(loc,lid,20,.5)
+
 
     def createFangate(self, Fg, artistname="sunil", trackurl="https://soundcloud.com/makelogin/sleep-away",
                       artisttitle="verma", fbpixel=7, fbtoken=8):
         if Fg == "fangate":
-            time.sleep(5)
+            self.waitFl(self._share_music_link, "link")
             self.clickShareMusicLink()
             time.sleep(1)
             self.clickGateCreateLink()
 
             self.source(trackurl, Fg)
-            time.sleep(2)
             self.genre()
             time.sleep(2)
             self.upload()
@@ -856,7 +857,7 @@ class FangatePage(SeleniumDriver):
             time.sleep(2)
             self.design()
         if Fg == "linkgate":
-            time.sleep(5)
+            self.waitFl(self._share_music_link, "link")
             self.clickShareMusicLink()
             time.sleep(1)
             self.clickLinkgateLink()
@@ -867,12 +868,11 @@ class FangatePage(SeleniumDriver):
             self.linkDesignStep()
 
         if Fg == "smartlink":
-            time.sleep(5)
+            self.waitFl(self._share_music_link, "link")
             self.clickShareMusicLink()
             time.sleep(1)
             self.clickSmartlinkLink()
             self.source("USNRS1229743", Fg)
-            time.sleep(2)
             self.genre()
             time.sleep(2)
             # self.upload()
@@ -922,17 +922,20 @@ class FangatePage(SeleniumDriver):
         self.trackUrlSendKeys(trackurl)
         time.sleep(1)
         self.clickOnNextSource()
-        if Fg == "smartlink":
-            time.sleep(20)
-        else:
-            time.sleep(2)
+        self.waitFl(self._genre_caret, "xpath")
+
+
+        #if Fg == "smartlink":
+            #time.sleep(20)
+        #else:
+            #time.sleep(2)
 
     def genre(self):
-        time.sleep(5)
+        #time.sleep(5)
         self.clickOnGenreCaret()
-        time.sleep(1)
+        self.waitFl(self._select_genre,"xpath")
         self.selectGenre()
-        time.sleep(1)
+        self.waitFl(self._genre_next_button)
         self.clickOnNextGenre()
 
     def upload(self):
@@ -1094,10 +1097,9 @@ class FangatePage(SeleniumDriver):
         # Skip Edit Custom Url
         # skip page text Edit
         # skip optional Edit
-        time.sleep(2)
+        self.waitFl(self._linkUrl_next_button)
         self.clickOnNextLinkUrl()
-        time.sleep(1)
-        self.clickOnNextLinkUrl()
+
 
     def releaseSettings(self, Fg):
         if Fg == "fangate":

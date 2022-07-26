@@ -3,11 +3,14 @@ from traceback import print_stack
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import *
+import logging
+import utilities.custom_logger as c1
 
 
 class SeleniumDriver():
-
+    log = c1.customLogger(logging.DEBUG)
     def __init__(self, driver):
+
         self.driver = driver
 
     def getByType(self, locatorType):
@@ -51,12 +54,12 @@ class SeleniumDriver():
             print_stack()
 
     def sendKeys(self, text, locator, locatorType="id"):
-        #try:
+        try:
             element = self.getElement(locator, locatorType)
             element.send_keys(text)
             self.log.info("Send Keys Successfully Locator :" + locator + "LocatorType :" + locatorType)
-        #except:
-            #self.log.info("Not Wirte to the Element Locator :" + locator + "LocatorType :" + locatorType)
+        except:
+            self.log.info("Not Wirte to the Element Locator :" + locator + "LocatorType :" + locatorType)
             print_stack()
 
     def isElementPresent(self, locator, locatorType="id"):
@@ -97,7 +100,7 @@ class SeleniumDriver():
                                                      ElementNotSelectableException,
                                                      ElementClickInterceptedException])
             element = wait.until(EC.element_to_be_clickable((byType,
-                                                             "stopFilter_stops-0")))
+                                                             locator)))
             self.log.info("Element appeared on the web page")
         except:
             self.log.info("Element not appeared on the web page")
@@ -112,10 +115,11 @@ class SeleniumDriver():
 
             if result is not True:
                 elementxpath.click()
-                self.log.info(" Clicked on the Element Locator :" + locator + "LocatorType :" + locatorType)
+                self.log.info("Clicked on the Element Locator :" + locator + "LocatorType :" + locatorType)
             else:
-                self.log.info(" Element already Checked :" + locator + "LocatorType :" + locatorType)
+                self.log.info("Element already Checked :" + locator + "LocatorType :" + locatorType)
 
         except:
             self.log.info("Cannot clicked on the Element Locator :" + locator + "LocatorType :" + locatorType)
             print_stack()
+
