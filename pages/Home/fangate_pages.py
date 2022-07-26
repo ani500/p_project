@@ -1,9 +1,11 @@
+import pytest
 import time
 from base.selenium_driver import SeleniumDriver
 import utilities.custom_logger as c1
 import logging
 from pages.Home.locators import Locators
 from pages.Home.login_pages import LoginPage
+
 
 
 class FangatePage(SeleniumDriver):
@@ -252,8 +254,8 @@ class FangatePage(SeleniumDriver):
 
     # Spotify Step
 
-    _save_track_spotify_id= "save_track_spotify"
-    _save_track_spotify =  "//div[@class='checkbox']//label[@for='save_track_spotify']"
+    _save_track_spotify_id = "save_track_spotify"
+    _save_track_spotify = "//div[@class='checkbox']//label[@for='save_track_spotify']"
 
     _email_capture_spotify_id = "email_capture_spotify"
     _email_capture_spotify = "//div[@class='checkbox']//label[@for='email_capture_spotify']"
@@ -310,7 +312,7 @@ class FangatePage(SeleniumDriver):
     _add_beatport_button = "add_beatport_button"
     _add_link_url_new24_beatport = "add_link_url_new24"
 
-    _add_tidal_button ="add_tidal_button"
+    _add_tidal_button = "add_tidal_button"
     _add_link_url_new25_tidal = "add_link_url_new25"
 
     _add_pandora_button = "add_pandora_button"
@@ -320,7 +322,7 @@ class FangatePage(SeleniumDriver):
     _add_link_url_new27_yandex = "add_link_url_new27"
 
     _add_hypeddit_button = "add_hypeddit_button"
-    _add_link_url_new28_hypeddit = "add_link_url_new28"
+    _add_link_url_new28_hypeddit = "//input[@data-type='hypeddit' and @type='text']"
 
     _add_bandcamp_button = "add_bandcamp_button"
     _add_link_url_new29_bandcamp = "add_link_url_new29"
@@ -328,7 +330,7 @@ class FangatePage(SeleniumDriver):
     _add_junodownload_button = "add_junodownload_button"
     _add_link_url_new30_junodownload = "add_link_url_new30"
 
-    _add_traxsource_button ="add_traxsource_button"
+    _add_traxsource_button = "add_traxsource_button"
     _add_link_url_new31_tracksource = "add_link_url_new31"
 
     _add_tiktok_button = "add_tiktok_button"
@@ -340,10 +342,10 @@ class FangatePage(SeleniumDriver):
     _add_fanclub_button = "add_fanclub_button"
     _email_link_id = "email_link"
     _email_link = "//div[@class='checkbox']//label[@for='email_link']"
-    _email_exit_id ="email_exit"
+    _email_exit_id = "email_exit"
     _email_exit = "//div[@class='checkbox']//label[@for='email_exit']"
-    _add_link_type_text_new37 = "add_link_type_text_new37"
-    _add_button_text_new37 = "add_button_text_new37"
+    _add_link_type_text_new37 = "//input[@placeholder='Fan Club (default)' and @type='text']"
+    _add_button_text_new37 = "//input[@placeholder='Join (default)' and @type='text']"
     _subscription_heading = "subscription_heading"
     _subscription_description = "subscription_description"
     _close_button_text = "close_button_text"
@@ -351,13 +353,11 @@ class FangatePage(SeleniumDriver):
 
     # Custom Section
     _add_custom_button = "add_custom_button"
-    _add_link_type_text_new38 = "add_link_type_text_new38"
-    _add_link_url_new38 = "add_link_url_new38"
+    _add_link_type_text_new38 = "//input[@placeholder='Enter Platform Name']"
+    _add_link_url_new38 = "//input[@placeholder='Enter the URL for this track' and @data-type='custom']"
 
     _custom_dropdown = "//button[@class='btn dropdown-toggle btn-default']//span[text()='PLAY']"
     _select_text = "//ul[@class='dropdown-menu inner']//span[text()='DOWNLOAD']"
-
-
 
     def clickOnTheLink(self):
         self.elementClick(self._login_link, "link")
@@ -686,41 +686,41 @@ class FangatePage(SeleniumDriver):
     # Spotify Step
 
     def clickSaveSp(self):
-        self.checkRadioElementClick(self._save_track_spotify,"xpath",self._save_track_spotify_id)
+        self.checkRadioElementClick(self._save_track_spotify, "xpath", self._save_track_spotify_id)
 
     def clickCaptureEmSp(self):
-        self.checkRadioElementClick(self._email_capture_spotify,"xpath",self._email_capture_spotify_id)
+        self.checkRadioElementClick(self._email_capture_spotify, "xpath", self._email_capture_spotify_id)
 
     def clickAddPlaylistSp(self):
-        self.checkRadioElementClick(self._add_to_playlist_spotify,"xpath",self._add_to_playlist_spotify_id)
+        self.checkRadioElementClick(self._add_to_playlist_spotify, "xpath", self._add_to_playlist_spotify_id)
 
     def clickFanProfileSp(self):
-        self.checkRadioElementClick(self._follow_spotify_smartlink,"xpath",self._follow_spotify_smartlink_id)
+        self.checkRadioElementClick(self._follow_spotify_smartlink, "xpath", self._follow_spotify_smartlink_id)
 
     # Apple step
 
     def clickSaveAp(self):
-        self.checkRadioElementClick(self._save_track_imusic,"xpath",self._save_track_imusic_id)
+        self.checkRadioElementClick(self._save_track_imusic, "xpath", self._save_track_imusic_id)
 
     def clickAddPlaylistAp(self):
-        self.checkRadioElementClick(self._add_to_playlist_imusic,"xpath",self._add_to_playlist_imusic_id)
+        self.checkRadioElementClick(self._add_to_playlist_imusic, "xpath", self._add_to_playlist_imusic_id)
 
     def clickLoveTrackAp(self):
-            self.checkRadioElementClick(self._follow_imusic, "xpath", self._follow_imusic_id)
+        self.checkRadioElementClick(self._follow_imusic, "xpath", self._follow_imusic_id)
 
     # Deezer Section
 
     def clickSaveDz(self):
-        self.checkRadioElementClick(self._save_track_deezer,"xpath",self._save_track_deezer_id)
+        self.checkRadioElementClick(self._save_track_deezer, "xpath", self._save_track_deezer_id)
 
     def clickCaptureEmDz(self):
-        self.checkRadioElementClick(self._email_capture_deezer,"xpath",self._email_capture_deezer_id)
+        self.checkRadioElementClick(self._email_capture_deezer, "xpath", self._email_capture_deezer_id)
 
     def clickAddPlaylistDz(self):
-        self.checkRadioElementClick(self._add_to_playlist_deezer,"xpath",self._add_to_playlist_deezer_id)
+        self.checkRadioElementClick(self._add_to_playlist_deezer, "xpath", self._add_to_playlist_deezer_id)
 
     def clickFanProfileDz(self):
-        self.checkRadioElementClick(self._follow_deezer_smartlink,"xpath",self._follow_deezer_smartlink_id)
+        self.checkRadioElementClick(self._follow_deezer_smartlink, "xpath", self._follow_deezer_smartlink_id)
 
     # Hypeddit Section
 
@@ -728,7 +728,7 @@ class FangatePage(SeleniumDriver):
         self.elementClick(self._add_hypeddit_button)
 
     def hypedditUrlSendKeys(self, Urlhy):
-        self.sendKeys(Urlhy,self._add_link_url_new28_hypeddit)
+        self.sendKeys(Urlhy, self._add_link_url_new28_hypeddit, "xpath")
 
     # Email Capture
 
@@ -738,17 +738,17 @@ class FangatePage(SeleniumDriver):
     def clickEmCaptSubscribe(self):
         self.checkRadioElementClick(self._email_link, "xpath", self._email_link_id)
 
-    def  emCaptSubscribeExit(self):
-        self.checkRadioElementClick(self._email_exit, "xpath", self._email_exit_id )
+    def emCaptSubscribeExit(self):
+        self.checkRadioElementClick(self._email_exit, "xpath", self._email_exit_id)
 
     def emCaptlinkNameSendKeys(self, linkname):
-        self.sendKeys(linkname, self._add_link_type_text_new37)
+        self.sendKeys(linkname, self._add_link_type_text_new37, "xpath")
 
     def emCaptlinkButtonSendKeys(self, linkbutton):
-        self.sendKeys(linkbutton, self._add_button_text_new37)
+        self.sendKeys(linkbutton, self._add_button_text_new37, "xpath")
 
     def emCaptHeadLineSendKeys(self, headline):
-        self.sendKeys(headline, self._subscription_heading  )
+        self.sendKeys(headline, self._subscription_heading)
 
     def emCaptParagraphSendKeys(self, paragraph):
         self.sendKeys(paragraph, self._subscription_description)
@@ -756,22 +756,27 @@ class FangatePage(SeleniumDriver):
     def emCaptButtonJoinSendKeys(self, join):
         self.sendKeys(join, self._close_button_text)
 
+    # Share Step
 
+    def clickShareButton(self):
+        self.elementClick(self._add_share_button)
 
+    # Custom step
 
+    def clickCustomButton(self):
+        self.elementClick(self._add_custom_button)
 
+    def customPlatformSendKeys(self, platform):
+        self.sendKeys(platform, self._add_link_type_text_new38, "xpath")
 
+    def customEnterUrlSendKeys(self, trackUrl):
+        self.sendKeys(trackUrl, self._add_link_url_new38, "xpath")
 
+    def clickButtonText(self):
+        self.elementClick(self._custom_dropdown, "xpath")
 
-
-
-
-
-
-
-
-
-
+    def clickSelectText(self):
+        self.elementClick(self._select_text, "xpath")
 
     # ------------------------------xxx-------------------------------
 
@@ -831,6 +836,7 @@ class FangatePage(SeleniumDriver):
 
     def devUnlockbuttonClick(self):
         self.elementClick(self._dev_unlock_button, "xpath")
+
 
     def createFangate(self, Fg, artistname="sunil", trackurl="https://soundcloud.com/makelogin/sleep-away",
                       artisttitle="verma", fbpixel=7, fbtoken=8):
@@ -1169,13 +1175,11 @@ class FangatePage(SeleniumDriver):
         self.clickFanProfileSp()
         self.spProfileSendKeys("https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql")
 
-
         # Apple Step
         time.sleep(1)
         self.clickApSave()
         self.clickAddPlaylistAp()
         self.clickLoveTrackAp()
-
 
         # Deezer Step
         time.sleep(1)
@@ -1195,29 +1199,24 @@ class FangatePage(SeleniumDriver):
         self.clickEmStep()
         self.clickEmCaptSubscribe()
         self.emCaptSubscribeExit()
-
-
-        self.clickOnNextGateSteps()
         self.emCaptlinkNameSendKeys("my name")
         self.emCaptlinkButtonSendKeys("link Button")
         self.emCaptHeadLineSendKeys("Sub Heading")
         self.emCaptParagraphSendKeys("Paragraph")
         self.emCaptButtonJoinSendKeys("Buttton Join")
 
+        # Share Button Step
+
+        self.clickShareButton()
+
+        # Custom Section
+
+        self.clickCustomButton()
+        self.customPlatformSendKeys("test platform")
+        self.customEnterUrlSendKeys("https://www.soundcloud.com")
+        time.sleep(1)
+        self.clickButtonText()
+        time.sleep(1)
+        self.clickSelectText()
+
         self.clickOnNextGateSteps()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
