@@ -123,3 +123,6 @@ class SeleniumDriver():
             self.log.info("Cannot clicked on the Element Locator :" + locator + "LocatorType :" + locatorType)
             print_stack()
 
+
+
+

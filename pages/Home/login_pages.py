@@ -61,9 +61,9 @@ class LoginPage(SeleniumDriver):
         self.elementClick(self._signup_button, "xpath")
 
     def login(self, email="", password=""):
-        self.driver.get("https://dev2.hypeddit.com")
+        self.driver.get("https://www.hypeddit.com")
         time.sleep(10)
-        self.driver.get("https://dev2.hypeddit.com")
+        self.driver.get("https://www.hypeddit.com")
         self.clickOnTheLink()
         self.clearFields()
         self.emailSendKeys(email)
@@ -86,9 +86,9 @@ class LoginPage(SeleniumDriver):
         element.clear()
 
     def signup(self, firstname, lastname, email, password):
-        self.driver.get("https://dev2.hypeddit.com")
+        self.driver.get("https://www.hypeddit.com")
         time.sleep(10)
-        self.driver.get("https://dev2.hypeddit.com")
+        self.driver.get("https://www.hypeddit.com")
         self.clickOnTheLink()
         self.clickOnTheSignupLink()
         self.clearFields_signup()

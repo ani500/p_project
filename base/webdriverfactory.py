@@ -41,7 +41,7 @@ class WebDriverFactory():
         Returns:
             'WebDriver Instance'
         """
-        baseURL = "https://dev2.hypeddit.com"
+        baseURL = "https://www.hypeddit.com"
         if self.browser == "iexplorer":
             # Set ie driver
             edgedriver = "C:/Users/Anil/workspace_python/drivers/msedgedriver.exe"
