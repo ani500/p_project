@@ -26,8 +26,8 @@ class FangatePage(SeleniumDriver):
     _stats_visits = "stats_visit_total"
     # Locators Fangate
     _share_music_link = "Share Music"
-    _download_gate_button = "//a[@href='https://hypeddit.com/gate/create']"
-    _link_gate_button = "//a[@href='https://hypeddit.com/gate/create/url']"
+    _download_gate_button = "//a[@href='https://dev2.hypeddit.com/gate/create']"
+    _link_gate_button = "//a[@href='https://dev2.hypeddit.com/gate/create/url']"
     # source Section
     _track_url = "track_url"
     _source_next_button = "next_box1_button"
@@ -248,7 +248,7 @@ class FangatePage(SeleniumDriver):
     _create_linkgate_button = "btn_create_linkgate"
 
     # -----------------Smartlink Section ---------------------
-    _smartlink_gate_button = "//a[@href='https://hypeddit.com/smartlink/create']"
+    _smartlink_gate_button = "//a[@href='https://dev2.hypeddit.com/smartlink/create']"
     _audio_preview_next_button = "next_box8_button"
 
     # Spotify Step
@@ -1195,7 +1195,7 @@ class FangatePage(SeleniumDriver):
         time.sleep(1)
         self.clickHypedditStep()
         time.sleep(1)
-        self.hypedditUrlSendKeys("https://www.hypeddit.com/track/vz2rfn")
+        self.hypedditUrlSendKeys("https://www.dev2.hypeddit.com/track/vz2rfn")
 
         # Email Capture Step
         self.clickEmStep()
