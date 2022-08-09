@@ -2,6 +2,7 @@ import time
 from base.selenium_driver import SeleniumDriver
 import utilities.custom_logger as c1
 import logging
+import time
 
 class AdPage(SeleniumDriver):
     log = c1.customLogger(logging.DEBUG)
@@ -17,11 +18,11 @@ class AdPage(SeleniumDriver):
 
     _page_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Select page']"
     _select_page = "//ul[@class='dropdown-menu inner']//span[text()='Musical']"
-    _fbaccount_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Select account']"
+    _fbaccount_caret = "//button[@data-id='ads_account_id']//span[text()='Select account']"
     _select_fbaccount = "//ul[@class='dropdown-menu inner']//span[text()='1447513952355862 [Anil Sharma]']"
-    _igaccount_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Select account']"
+    _igaccount_caret = "//button[@data-id='instagram_account_id']//span[text()='Select account']"
     _select_igaccount = "//ul[@class='dropdown-menu inner']//span[text()='']"
-    _pixelaccount_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Select account']"
+    _pixelaccount_caret = "//button[@data-id='facebook_pixel_id']//span[text()='Select account']"
     _select_pixelaccount = "//ul[@class='dropdown-menu inner']//span[text()='1597053410709523 [My Pixel]']"
 
     _accounts_next_button = "next_box_button_facebook-account-connect"
@@ -50,9 +51,9 @@ class AdPage(SeleniumDriver):
     _select_budget = "//ul[@class='dropdown-menu inner']//span[text()='420']"
     _budget_next_button = "next_box_button_budget"
 
-    _advance_min_age_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Min Age']"
+    _advance_min_age_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='18']"
     _select_min_age = "//ul[@class='dropdown-menu inner']//span[text()='19']"
-    _advance_max_age_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Max Age']"
+    _advance_max_age_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='65']"
     _select_max_age = "//ul[@class='dropdown-menu inner']//span[text()='61']"
     _advance_gender_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='All']"
     _select_gender = "//ul[@class='dropdown-menu inner']//span[text()='Men']"
@@ -60,8 +61,11 @@ class AdPage(SeleniumDriver):
     _advance_next_button = "next_box_button_advanced"
 
     _common_terms = "//div[@class='checkbox']//label[@for='common_terms']"
+    _common_terms_id = "common_terms"
     _facebook_terms = "//div[@class='checkbox']//label[@for='facebook_terms']"
+    _facebook_terms_id = "facebook_terms"
     _hypeddit_terms = "//div[@class='checkbox']//label[@for='hypeddit_terms']"
+    _hypeddit_terms_id = "hypeddit_terms"
     _save_draft_button = "next_box_button_confirmation"
 
     def clickGoalNextButton(self):
@@ -97,6 +101,9 @@ class AdPage(SeleniumDriver):
     def titleSendKeys(self, artistTitle):
         self.sendKeys(artistTitle, self._artist_title)
 
+    def clickArtistField(self):
+        self.elementClick(self._artist_name)
+
     def clickOnGenre(self):
         self.elementClick(self._genre_caret, "xpath")
 
@@ -126,6 +133,9 @@ class AdPage(SeleniumDriver):
 
     def spArtistSendKeys(self, artistName):
         self.sendKeys(artistName, self._ad_spotify_artists)
+
+    def clickGenerateInterestButton(self):
+        self.elementClick(self._interest_button)
 
     def clickInterestNextButton(self):
         self.elementClick(self._interest_next_button)
@@ -162,6 +172,151 @@ class AdPage(SeleniumDriver):
 
     def clickAdvancetNextButton(self):
         self.elementClick(self._advance_next_button)
+
+    def clickCommonTerms(self):
+        self.checkRadioElementClick(self._common_terms, "xpath", self._common_terms_id)
+
+    def clickFbTerms(self):
+        self.checkRadioElementClick(self._facebook_terms, "xpath", self._facebook_terms_id)
+
+    def clickHypedditTerms(self):
+        self.checkRadioElementClick(self._hypeddit_terms, "xpath", self._hypeddit_terms_id)
+
+    def clickDraftNextButton(self):
+        self.elementClick(self._save_draft_button)
+
+    def waitFl(self,loc,lid="id"):
+        self.waitForElement(loc,lid,50,.5)
+
+
+    def createAd(self):
+        self.driver.get("https://dev2.hypeddit.com/ads/create/spotify_growth")
+
+        self.goal()
+
+        self.accountprofile()
+        self.music()
+        self.ad()
+
+        self.countries()
+        self.waitFl(self._interest_button)
+        self.interest()
+
+        self.budget()
+
+        self.advance()
+        self.confirmation()
+
+
+
+
+    def goal(self):
+        self.clickGoalNextButton()
+
+    def accountprofile(self):
+        self.waitFl(self._page_caret, "xpath")
+        self.clickOnFbPage()
+        self.selectFbPage()
+        self.waitFl(self._fbaccount_caret, "xpath")
+        self.clickOnFbPageAccount()
+        self.selectFbPageAccount()
+        self.waitFl(self._pixelaccount_caret, "xpath")
+        self.clickOnPixelAccount()
+        self.selectPixelAccount()
+        self.clickAccountNextButton()
+
+    def music(self):
+        self.spUrlSendKeys("USNRS1229743")
+        self.clickArtistField()
+        time.sleep(10)
+        self.artistSendKeys("verma")
+        self.titleSendKeys("sharma")
+        self.waitFl(self._genre_caret, "xpath")
+        self.clickOnGenre()
+        self.selectGenre()
+        self.clickMusicNextButton()
+
+    def ad(self):
+        #self.mp3SendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\45 sec.mp3")
+        self.mp4SendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\Hazard Lights - SGE Cover - Preview 1.mp4")
+        time.sleep(30)
+        self.clickAdNextButton()
+
+    def countries(self):
+        self.waitFl(self._countries_caret, "xpath")
+        self.clickOnCountryList()
+        self.selectCountries()
+        time.sleep(1)
+        self.clickCountriesNextButton()
+
+    def interest(self):
+        self.clickGenerateInterestButton()
+        time.sleep(25)
+        self.clickInterestNextButton()
+
+    def budget(self):
+        self.waitFl(self._budget_caret, "xpath")
+        self.clickOnBudget()
+        self.selectBudgetAmount()
+        self.clickBudgetNextButton()
+
+    def advance(self):
+        #time.sleep(2)
+        #self.waitFl(self._advance_min_age_caret, "xpath")
+        #self.clickOnSelectMinAge()
+        #self.selectMinAge()
+        #time.sleep(2)
+        #self.waitFl(self._advance_max_age_caret, "xpath")
+        #self.clickOnSelectMaxAge()
+        #self.selectMaxAge()
+        #time.sleep(2)
+        self.waitFl(self._advance_gender_caret, "xpath")
+        self.clickOnSelectGender()
+        self.selectGender()
+        self.overRideTextSendKeys("great music")
+        self.clickAdvancetNextButton()
+
+    def confirmation(self):
+        self.clickCommonTerms()
+        self.clickFbTerms()
+        self.clickHypedditTerms()
+        self.clickDraftNextButton()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

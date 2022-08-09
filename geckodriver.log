@@ -9390,3 +9390,603 @@ JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeE
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 1659682738496	Marionette	INFO	Stopped listening on port 51177
+1660038921531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilebMav9V"
+1660038926689	Marionette	INFO	Marionette enabled
+1660038926720	Marionette	INFO	Listening on port 61689
+1660038927219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilebMav9V\\search.json.mozlz4", (void 0)))
+[Parent 6948, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660038943772	Marionette	INFO	Stopped listening on port 61689
+[Parent 6948, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+[Parent 6948, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660039009267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilee3QAar"
+1660039010760	Marionette	INFO	Marionette enabled
+1660039010766	Marionette	INFO	Listening on port 61743
+1660039011199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofilee3QAar\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660039040915	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://dev2.hypeddit.com/js/ad.js?v=95.0.109, line 1765: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/6PFy4xkpW4X.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660039115426	Marionette	INFO	Stopped listening on port 61743
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 3240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 3240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 3240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 3240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660039252538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileFsXk6J"
+1660039254479	Marionette	INFO	Marionette enabled
+1660039254485	Marionette	INFO	Listening on port 61893
+1660039255096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileFsXk6J\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660039281976	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://dev2.hypeddit.com/js/ad.js?v=95.0.109, line 1765: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/6PFy4xkpW4X.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660039324499	Marionette	INFO	Stopped listening on port 61893
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660039826018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile5sgUBt"
+1660039827486	Marionette	INFO	Marionette enabled
+1660039827492	Marionette	INFO	Listening on port 62062
+1660039828103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile5sgUBt\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660039854309	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://dev2.hypeddit.com/js/ad.js?v=95.0.109, line 1765: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/6PFy4xkpW4X.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660039890617	Marionette	INFO	Stopped listening on port 62062
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 1944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660040743984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileIxvoV3"
+1660040745719	Marionette	INFO	Marionette enabled
+1660040745726	Marionette	INFO	Listening on port 62261
+1660040746452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileIxvoV3\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660040774152	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://dev2.hypeddit.com/js/ad.js?v=95.0.109, line 1765: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/6PFy4xkpW4X.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660040817977	Marionette	INFO	Stopped listening on port 62261
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660040917836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile4hGZYX"
+1660040919482	Marionette	INFO	Marionette enabled
+1660040919489	Marionette	INFO	Listening on port 62411
+1660040920174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile4hGZYX\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660040947153	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://dev2.hypeddit.com/js/ad.js?v=95.0.109, line 1765: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/6PFy4xkpW4X.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660041023344	Marionette	INFO	Stopped listening on port 62411
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660041116055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileL1USOi"
+1660041117453	Marionette	INFO	Marionette enabled
+1660041117459	Marionette	INFO	Listening on port 62566
+1660041118111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileL1USOi\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660041142822	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://dev2.hypeddit.com/js/ad.js?v=95.0.109, line 1765: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/6PFy4xkpW4X.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660041251199	Marionette	INFO	Stopped listening on port 62566
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 7584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660041605843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileXsv72Z"
+1660041608383	Marionette	INFO	Marionette enabled
+1660041608389	Marionette	INFO	Listening on port 62747
+1660041609113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileXsv72Z\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660041636340	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://dev2.hypeddit.com/js/ad.js?v=95.0.109, line 1765: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/6PFy4xkpW4X.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660041804763	Marionette	INFO	Stopped listening on port 62747
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660041857583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile6NG2q7"
+1660041859189	Marionette	INFO	Marionette enabled
+1660041859195	Marionette	INFO	Listening on port 62924
+1660041859294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile6NG2q7\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660041887126	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://dev2.hypeddit.com/js/ad.js?v=95.0.109, line 1765: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/6PFy4xkpW4X.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0)'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0)'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660042190807	Marionette	INFO	Stopped listening on port 62924
+1660045552563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileSOATRH"
+1660045554250	Marionette	INFO	Marionette enabled
+1660045554256	Marionette	INFO	Listening on port 63384
+1660045554966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileSOATRH\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660045584308	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://dev2.hypeddit.com/js/ad.js?v=95.0.109, line 1765: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/6PFy4xkpW4X.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660045835377	Marionette	INFO	Stopped listening on port 63384
+[Parent 10140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660047532722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile6tYjS3"
+1660047534398	Marionette	INFO	Marionette enabled
+1660047534404	Marionette	INFO	Listening on port 63694
+1660047535093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile6tYjS3\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660047563336	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://dev2.hypeddit.com/js/ad.js?v=95.0.109, line 1765: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/6PFy4xkpW4X.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+observe@resource://gre/modules/AsyncShutdown.jsm:577:16
+
+1660047776912	Marionette	INFO	Stopped listening on port 63694
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 8188, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660048242128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileYN3Vx2"
+1660048243688	Marionette	INFO	Marionette enabled
+1660048243695	Marionette	INFO	Listening on port 63894
+1660048243818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileYN3Vx2\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660048270271	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://dev2.hypeddit.com/js/ad.js?v=95.0.109, line 1765: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/6PFy4xkpW4X.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0)'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0)'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+observe@resource://gre/modules/AsyncShutdown.jsm:577:16
+
+1660048424403	Marionette	INFO	Stopped listening on port 63894
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 8800, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 8800, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660048462888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile406uKu"
+1660048464628	Marionette	INFO	Marionette enabled
+1660048464633	Marionette	INFO	Listening on port 64069
+1660048465261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofile406uKu\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660048490882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://dev2.hypeddit.com/js/ad.js?v=95.0.109, line 1765: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/6PFy4xkpW4X.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660048675583	Marionette	INFO	Stopped listening on port 64069
+1660050383193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileb1Tdux"
+1660050385444	Marionette	INFO	Marionette enabled
+1660050385450	Marionette	INFO	Listening on port 64315
+1660050386190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anil\\AppData\\Local\\Temp\\rust_mozprofileb1Tdux\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660050413687	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev2.hypeddit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://dev2.hypeddit.com/js/ad.js?v=95.0.109, line 1765: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/6PFy4xkpW4X.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660050542703	Marionette	INFO	Stopped listening on port 64315
+[Parent 9884, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 9884, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

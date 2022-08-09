@@ -94,7 +94,7 @@ class SeleniumDriver():
             byType = self.getByType(locatorType)
             self.log.info("Waiting for maximum :: " + str(timeout) +
                           " :: seconds for element to be clickable")
-            wait = WebDriverWait(self.driver, 10, poll_frequency=1,
+            wait = WebDriverWait(self.driver, timeout, poll_Frequency,
                                  ignored_exceptions=[NoSuchElementException,
                                                      ElementNotVisibleException,
                                                      ElementNotSelectableException,
