@@ -68,6 +68,10 @@ class AdPage(SeleniumDriver):
     _hypeddit_terms_id = "hypeddit_terms"
     _save_draft_button = "next_box_button_confirmation"
 
+    _loader_image = "//img[@title='Loading']"
+    _music_loader_image = "//div[@class='loader select-loading'][contains(@style,'display: block')]"
+    _interest_loader_image = "//div[@id='related_artists_interest_main'][contains(@class,'hide')]"
+
     def clickGoalNextButton(self):
         self.elementClick(self._goal_next_button)
 
@@ -188,6 +192,10 @@ class AdPage(SeleniumDriver):
     def waitFl(self,loc,lid="id"):
         self.waitForElement(loc,lid,50,.5)
 
+    def checkLoaderElement(self,loc,ltype="id"):
+        return self.isElementPresent(loc,ltype)
+
+
 
     def createAd(self):
         self.driver.get("https://dev2.hypeddit.com/ads/create/spotify_growth")
@@ -206,6 +214,7 @@ class AdPage(SeleniumDriver):
 
         self.advance()
         self.confirmation()
+        time.sleep(50)
 
 
 
@@ -228,19 +237,35 @@ class AdPage(SeleniumDriver):
     def music(self):
         self.spUrlSendKeys("USNRS1229743")
         self.clickArtistField()
-        time.sleep(10)
-        self.artistSendKeys("verma")
-        self.titleSendKeys("sharma")
-        self.waitFl(self._genre_caret, "xpath")
-        self.clickOnGenre()
-        self.selectGenre()
-        self.clickMusicNextButton()
+
+        for i in range(51):
+            if i > 49:
+                break
+            time.sleep(2)
+            if self.checkLoaderElement(self._music_loader_image,"xpath") == False:
+                self.artistSendKeys("verma")
+                self.titleSendKeys("sharma")
+                self.waitFl(self._genre_caret, "xpath")
+                self.clickOnGenre()
+                self.selectGenre()
+                self.clickMusicNextButton()
+                break
+
+
 
     def ad(self):
-        #self.mp3SendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\45 sec.mp3")
+        self.mp3SendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\45 sec.mp3")
         self.mp4SendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\Hazard Lights - SGE Cover - Preview 1.mp4")
-        time.sleep(30)
-        self.clickAdNextButton()
+
+        for i in range(51):
+            if i > 49:
+                break
+            time.sleep(2)
+            if self.checkLoaderElement(self._loader_image, "xpath") == False:
+                self.clickAdNextButton()
+                print("next button clicked")
+                break
+
 
     def countries(self):
         self.waitFl(self._countries_caret, "xpath")
@@ -251,8 +276,15 @@ class AdPage(SeleniumDriver):
 
     def interest(self):
         self.clickGenerateInterestButton()
-        time.sleep(25)
-        self.clickInterestNextButton()
+
+        for i in range(51):
+            if i > 49:
+                break
+            time.sleep(2)
+            if self.checkLoaderElement(self._interest_loader_image, "xpath") == False:
+                self.clickInterestNextButton()
+                break
+
 
     def budget(self):
         self.waitFl(self._budget_caret, "xpath")
