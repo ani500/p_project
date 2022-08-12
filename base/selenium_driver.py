@@ -123,6 +123,28 @@ class SeleniumDriver():
             self.log.info("Cannot clicked on the Element Locator :" + locator + "LocatorType :" + locatorType)
             print_stack()
 
+    def switchWindowHander(self, m):
+        handles = self.driver.window_handles
+        print(handles)
+        size = len(handles)
+        if m != 1:
+            for x in range(size):
+                if handles[x] != self.driver.current_window_handle:
+                    self.driver.switch_to.window(handles[x])
+                    print(self.driver.title)
+
+        else:
+            print("Hello")
+            self.driver.switch_to.window(handles[0])
+            print(self.driver.title)
+
+
+
+
+
+
+
+
 
 
 

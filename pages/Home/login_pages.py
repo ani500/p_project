@@ -60,10 +60,11 @@ class LoginPage(SeleniumDriver):
     def clickOnTheSignUpButton(self):
         self.elementClick(self._signup_button, "xpath")
 
+    def waitFl(self,loc,lid="id"):
+        self.waitForElement(loc,lid,50,.5)
+
     def login(self, email="", password=""):
-        self.driver.get("https://dev2.hypeddit.com")
-        time.sleep(10)
-        self.driver.get("https://dev2.hypeddit.com")
+        self.waitFl(self._login_link, "link")
         self.clickOnTheLink()
         self.clearFields()
         self.emailSendKeys(email)
