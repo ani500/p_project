@@ -21,7 +21,7 @@ class AdPage(SeleniumDriver):
     _fbaccount_caret = "//button[@data-id='ads_account_id']//span[text()='Select account']"
     _select_fbaccount = "//ul[@class='dropdown-menu inner']//span[text()='1447513952355862 [Anil Sharma]']"
     _igaccount_caret = "//button[@data-id='instagram_account_id']//span[text()='Select account']"
-    _select_igaccount = "//ul[@class='dropdown-menu inner']//span[text()='']"
+    _select_igaccount = "//ul[@class='dropdown-menu inner']//span[text()='anilangira100']"
     _pixelaccount_caret = "//button[@data-id='facebook_pixel_id']//span[text()='Select account']"
     _select_pixelaccount = "//ul[@class='dropdown-menu inner']//span[text()='1597053410709523 [My Pixel]']"
 
@@ -52,9 +52,10 @@ class AdPage(SeleniumDriver):
     _budget_next_button = "next_box_button_budget"
 
     _advance_min_age_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='18']"
-    _select_min_age = "//ul[@class='dropdown-menu inner']//span[text()='19']"
+    _select_min_age = "//div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='19']"
     _advance_max_age_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='65']"
-    _select_max_age = "//ul[@class='dropdown-menu inner']//span[text()='61']"
+    _select_max_age = "//div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='61']"
+
     _advance_gender_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='All']"
     _select_gender = "//ul[@class='dropdown-menu inner']//span[text()='Men']"
     _head_link_override = "headline_text_override"
@@ -94,6 +95,12 @@ class AdPage(SeleniumDriver):
 
     def selectFbPageAccount(self):
         self.elementClick(self._select_fbaccount, "xpath")
+
+    def clickOnIgPageAccount(self):
+        self.elementClick(self._igaccount_caret, "xpath")
+
+    def selectIgPageAccount(self):
+        self.elementClick(self._select_igaccount, "xpath")
 
     def clickOnPixelAccount(self):
         self.elementClick(self._pixelaccount_caret, "xpath")
@@ -274,6 +281,9 @@ class AdPage(SeleniumDriver):
         self.waitFl(self._fbaccount_caret, "xpath")
         self.clickOnFbPageAccount()
         self.selectFbPageAccount()
+        self.waitFl(self._igaccount_caret, "xpath")
+        self.clickOnIgPageAccount()
+        self.selectIgPageAccount()
         self.waitFl(self._pixelaccount_caret, "xpath")
         self.clickOnPixelAccount()
         self.selectPixelAccount()
@@ -338,15 +348,15 @@ class AdPage(SeleniumDriver):
         self.clickBudgetNextButton()
 
     def advance(self):
-        #time.sleep(2)
-        #self.waitFl(self._advance_min_age_caret, "xpath")
-        #self.clickOnSelectMinAge()
-        #self.selectMinAge()
-        #time.sleep(2)
-        #self.waitFl(self._advance_max_age_caret, "xpath")
-        #self.clickOnSelectMaxAge()
-        #self.selectMaxAge()
-        #time.sleep(2)
+        time.sleep(2)
+        self.waitFl(self._advance_min_age_caret, "xpath")
+        self.clickOnSelectMinAge()
+        self.selectMinAge()
+        time.sleep(2)
+        self.waitFl(self._advance_max_age_caret, "xpath")
+        self.clickOnSelectMaxAge()
+        self.selectMaxAge()
+        time.sleep(2)
         self.waitFl(self._advance_gender_caret, "xpath")
         self.clickOnSelectGender()
         self.selectGender()

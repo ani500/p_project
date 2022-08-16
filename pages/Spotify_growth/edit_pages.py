@@ -21,7 +21,7 @@ class EditPage(SeleniumDriver):
     _fbaccount_caret = "//button[@data-id='ads_account_id']//span[text()='Select account']"
     _select_fbaccount = "//ul[@class='dropdown-menu inner']//span[text()='1447513952355862 [Anil Sharma]']"
     _igaccount_caret = "//button[@data-id='instagram_account_id']//span[text()='Select account']"
-    _select_igaccount = "//ul[@class='dropdown-menu inner']//span[text()='']"
+    _select_igaccount = "//ul[@class='dropdown-menu inner']//span[text()='anilangira100']"
     _pixelaccount_caret = "//button[@data-id='facebook_pixel_id']//span[text()='Select account']"
     _select_pixelaccount = "//ul[@class='dropdown-menu inner']//span[text()='1597053410709523 [My Pixel]']"
 
@@ -51,10 +51,11 @@ class EditPage(SeleniumDriver):
     _select_budget = "//ul[@class='dropdown-menu inner']//span[text()='500']"
     _budget_next_button = "next_box_button_budget"
 
-    _advance_min_age_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='18']"
-    _select_min_age = "//div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='19']"
-    _advance_max_age_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='65']"
-    _select_max_age = "//div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='61']"
+    _advance_min_age_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='19']"
+    _select_min_age = "//div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='21']"
+    _advance_max_age_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='61']"
+    _select_max_age = "//div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='67']"
+
     _advance_gender_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Men']"
     _select_gender = "//ul[@class='dropdown-menu inner']//span[text()='Women']"
     _head_link_override = "headline_text_override"
@@ -224,7 +225,7 @@ class EditPage(SeleniumDriver):
 
 
     def editAd(self):
-        self.driver.get("https://dev2.hypeddit.com/ads/edit/2ea2f8e2-8308-467a-bb50-94f004461dda")
+        self.driver.get("https://dev2.hypeddit.com/ads/edit/5a3c9157-56fc-4bab-ae8f-550e367847f0")
 
         self.goal()
         self.accountprofile()

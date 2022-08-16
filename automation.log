@@ -7965,3 +7965,1031 @@
 08/12/2022 06:53:52 PM - EditPage - INFO: Clicked on the Element Locator :next_box_button_advancedLocatorType :id
 08/12/2022 06:53:52 PM - EditPage - INFO: Element Found Locator :next_box_button_confirmationLocatorType :id
 08/12/2022 06:53:52 PM - EditPage - INFO: Clicked on the Element Locator :next_box_button_confirmationLocatorType :id
+08/16/2022 11:17:15 AM - FangatePage - INFO: Element Found Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+08/16/2022 11:17:15 AM - FangatePage - INFO: Send Keys Successfully Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+08/16/2022 11:17:15 AM - FangatePage - INFO: Element Found Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+08/16/2022 11:17:23 AM - FangatePage - INFO: Clicked on the Element Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+08/16/2022 11:17:23 AM - LoginPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:17:23 AM - LoginPage - INFO: Element appeared on the web page
+08/16/2022 11:17:23 AM - LoginPage - INFO: Element Found Locator :LoginLocatorType :link
+08/16/2022 11:17:24 AM - LoginPage - INFO: Clicked on the Element Locator :LoginLocatorType :link
+08/16/2022 11:17:24 AM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+08/16/2022 11:17:24 AM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+08/16/2022 11:17:24 AM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+08/16/2022 11:17:24 AM - LoginPage - INFO: Send Keys Successfully Locator :login_emailLocatorType :id
+08/16/2022 11:17:24 AM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+08/16/2022 11:17:24 AM - LoginPage - INFO: Send Keys Successfully Locator :login_passwordLocatorType :id
+08/16/2022 11:17:24 AM - LoginPage - INFO: Element Found Locator :login_buttonLocatorType :id
+08/16/2022 11:17:30 AM - LoginPage - INFO: Clicked on the Element Locator :login_buttonLocatorType :id
+08/16/2022 11:17:32 AM - AdPage - INFO: Element Found Locator :next_box_button_choose-typeLocatorType :id
+08/16/2022 11:17:32 AM - AdPage - INFO: Clicked on the Element Locator :next_box_button_choose-typeLocatorType :id
+08/16/2022 11:17:32 AM - AdPage - INFO: Element Found Locator :AdsFacebookLoginLocatorType :id
+08/16/2022 11:17:33 AM - AdPage - INFO: Clicked on the Element Locator :AdsFacebookLoginLocatorType :id
+08/16/2022 11:17:37 AM - AdPage - INFO: Element Found Locator :emailLocatorType :id
+08/16/2022 11:17:37 AM - AdPage - INFO: Send Keys Successfully Locator :emailLocatorType :id
+08/16/2022 11:17:39 AM - AdPage - INFO: Element Found Locator :passLocatorType :id
+08/16/2022 11:17:39 AM - AdPage - INFO: Send Keys Successfully Locator :passLocatorType :id
+08/16/2022 11:17:41 AM - AdPage - INFO: Element Found Locator ://input[@value='Log In']LocatorType :xpath
+08/16/2022 11:17:46 AM - AdPage - INFO: Clicked on the Element Locator ://input[@value='Log In']LocatorType :xpath
+08/16/2022 11:17:46 AM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:17:46 AM - AdPage - INFO: Element appeared on the web page
+08/16/2022 11:17:46 AM - AdPage - INFO: Element Found Locator ://span[text()='Continue as Anil Sharma']LocatorType :xpath
+08/16/2022 11:17:47 AM - AdPage - INFO: Clicked on the Element Locator ://span[text()='Continue as Anil Sharma']LocatorType :xpath
+08/16/2022 11:17:57 AM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:17:57 AM - AdPage - INFO: Element appeared on the web page
+08/16/2022 11:17:57 AM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select page']LocatorType :xpath
+08/16/2022 11:17:57 AM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select page']LocatorType :xpath
+08/16/2022 11:17:57 AM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Musical']LocatorType :xpath
+08/16/2022 11:17:57 AM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Musical']LocatorType :xpath
+08/16/2022 11:17:57 AM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:17:57 AM - AdPage - INFO: Element appeared on the web page
+08/16/2022 11:17:57 AM - AdPage - INFO: Element Found Locator ://button[@data-id='ads_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 11:17:58 AM - AdPage - INFO: Clicked on the Element Locator ://button[@data-id='ads_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 11:17:58 AM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='1447513952355862 [Anil Sharma]']LocatorType :xpath
+08/16/2022 11:17:58 AM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='1447513952355862 [Anil Sharma]']LocatorType :xpath
+08/16/2022 11:17:58 AM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:17:58 AM - AdPage - INFO: Element appeared on the web page
+08/16/2022 11:17:58 AM - AdPage - INFO: Element Found Locator ://button[@data-id='facebook_pixel_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 11:17:58 AM - AdPage - INFO: Clicked on the Element Locator ://button[@data-id='facebook_pixel_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 11:17:58 AM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='1597053410709523 [My Pixel]']LocatorType :xpath
+08/16/2022 11:17:59 AM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='1597053410709523 [My Pixel]']LocatorType :xpath
+08/16/2022 11:17:59 AM - AdPage - INFO: Element Found Locator :next_box_button_facebook-account-connectLocatorType :id
+08/16/2022 11:17:59 AM - AdPage - INFO: Clicked on the Element Locator :next_box_button_facebook-account-connectLocatorType :id
+08/16/2022 11:17:59 AM - AdPage - INFO: Element Found Locator :track_urlLocatorType :id
+08/16/2022 11:17:59 AM - AdPage - INFO: Send Keys Successfully Locator :track_urlLocatorType :id
+08/16/2022 11:17:59 AM - AdPage - INFO: Element Found Locator :artist_nameLocatorType :id
+08/16/2022 11:17:59 AM - AdPage - INFO: Clicked on the Element Locator :artist_nameLocatorType :id
+08/16/2022 11:18:01 AM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 11:18:01 AM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 11:18:03 AM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 11:18:03 AM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 11:18:05 AM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 11:18:05 AM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 11:18:07 AM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 11:18:07 AM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 11:18:12 AM - AdPage - INFO: Element Not Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 11:18:12 AM - AdPage - INFO: Element Not Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 11:18:12 AM - AdPage - INFO: Element Found Locator :artist_nameLocatorType :id
+08/16/2022 11:18:12 AM - AdPage - INFO: Send Keys Successfully Locator :artist_nameLocatorType :id
+08/16/2022 11:18:12 AM - AdPage - INFO: Element Found Locator :titleLocatorType :id
+08/16/2022 11:18:12 AM - AdPage - INFO: Send Keys Successfully Locator :titleLocatorType :id
+08/16/2022 11:18:12 AM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:18:12 AM - AdPage - INFO: Element appeared on the web page
+08/16/2022 11:18:12 AM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select genre']LocatorType :xpath
+08/16/2022 11:18:13 AM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select genre']LocatorType :xpath
+08/16/2022 11:18:13 AM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Bass']LocatorType :xpath
+08/16/2022 11:18:13 AM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Bass']LocatorType :xpath
+08/16/2022 11:18:13 AM - AdPage - INFO: Element Found Locator :next_box_button_musicLocatorType :id
+08/16/2022 11:18:13 AM - AdPage - INFO: Clicked on the Element Locator :next_box_button_musicLocatorType :id
+08/16/2022 11:18:13 AM - AdPage - INFO: Element Found Locator :inputFilemp3LocatorType :id
+08/16/2022 11:18:13 AM - AdPage - INFO: Send Keys Successfully Locator :inputFilemp3LocatorType :id
+08/16/2022 11:18:13 AM - AdPage - INFO: Element Found Locator :inputFilemp4LocatorType :id
+08/16/2022 11:18:13 AM - AdPage - INFO: Send Keys Successfully Locator :inputFilemp4LocatorType :id
+08/16/2022 11:18:18 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:18 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:20 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:20 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:22 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:22 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:24 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:24 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:26 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:26 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:28 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:28 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:30 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:30 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:32 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:32 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:34 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:34 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:36 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:36 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:38 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:38 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:40 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:40 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:42 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:42 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:44 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:44 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:46 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:46 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:48 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:48 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:50 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:50 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:52 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:52 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:54 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:54 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:56 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:56 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:58 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:18:58 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:00 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:00 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:02 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:02 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:04 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:04 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:06 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:06 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:08 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:08 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:10 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:10 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:12 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:12 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:14 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:14 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:16 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:16 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:18 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:18 AM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:23 AM - AdPage - INFO: Element Not Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:23 AM - AdPage - INFO: Element Not Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:19:23 AM - AdPage - INFO: Element Found Locator :next_box_button_audio-videoLocatorType :id
+08/16/2022 11:19:23 AM - AdPage - INFO: Clicked on the Element Locator :next_box_button_audio-videoLocatorType :id
+08/16/2022 11:19:23 AM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:19:23 AM - AdPage - INFO: Element appeared on the web page
+08/16/2022 11:19:23 AM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose a saved list to fill in countries from']LocatorType :xpath
+08/16/2022 11:19:23 AM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose a saved list to fill in countries from']LocatorType :xpath
+08/16/2022 11:19:23 AM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Tier One Countries']LocatorType :xpath
+08/16/2022 11:19:24 AM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Tier One Countries']LocatorType :xpath
+08/16/2022 11:19:25 AM - AdPage - INFO: Element Found Locator :next_box_button_countriesLocatorType :id
+08/16/2022 11:19:25 AM - AdPage - INFO: Clicked on the Element Locator :next_box_button_countriesLocatorType :id
+08/16/2022 11:19:25 AM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:19:49 AM - AdPage - INFO: Element appeared on the web page
+08/16/2022 11:19:49 AM - AdPage - INFO: Element Found Locator :generateInterestsButtonLocatorType :id
+08/16/2022 11:19:50 AM - AdPage - INFO: Clicked on the Element Locator :generateInterestsButtonLocatorType :id
+08/16/2022 11:19:52 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:19:52 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:19:54 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:19:54 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:19:56 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:19:56 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:19:58 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:19:58 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:00 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:00 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:02 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:02 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:04 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:04 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:06 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:06 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:08 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:08 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:10 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:10 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:12 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:12 AM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:17 AM - AdPage - INFO: Element Not Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:17 AM - AdPage - INFO: Element Not Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:20:17 AM - AdPage - INFO: Element Found Locator :next_box_button_interestsLocatorType :id
+08/16/2022 11:20:17 AM - AdPage - INFO: Clicked on the Element Locator :next_box_button_interestsLocatorType :id
+08/16/2022 11:20:17 AM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:20:17 AM - AdPage - INFO: Element appeared on the web page
+08/16/2022 11:20:17 AM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose INR Per Day']LocatorType :xpath
+08/16/2022 11:20:17 AM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose INR Per Day']LocatorType :xpath
+08/16/2022 11:20:18 AM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='420']LocatorType :xpath
+08/16/2022 11:20:18 AM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='420']LocatorType :xpath
+08/16/2022 11:20:18 AM - AdPage - INFO: Element Found Locator :next_box_button_budgetLocatorType :id
+08/16/2022 11:20:18 AM - AdPage - INFO: Clicked on the Element Locator :next_box_button_budgetLocatorType :id
+08/16/2022 11:20:18 AM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:20:18 AM - AdPage - INFO: Element appeared on the web page
+08/16/2022 11:20:18 AM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='All']LocatorType :xpath
+08/16/2022 11:20:18 AM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='All']LocatorType :xpath
+08/16/2022 11:20:18 AM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Men']LocatorType :xpath
+08/16/2022 11:20:19 AM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Men']LocatorType :xpath
+08/16/2022 11:20:19 AM - AdPage - INFO: Element Found Locator :headline_text_overrideLocatorType :id
+08/16/2022 11:20:19 AM - AdPage - INFO: Send Keys Successfully Locator :headline_text_overrideLocatorType :id
+08/16/2022 11:20:19 AM - AdPage - INFO: Element Found Locator :next_box_button_advancedLocatorType :id
+08/16/2022 11:20:19 AM - AdPage - INFO: Clicked on the Element Locator :next_box_button_advancedLocatorType :id
+08/16/2022 11:20:19 AM - AdPage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='common_terms']LocatorType :xpath
+08/16/2022 11:20:19 AM - AdPage - INFO: Element Found Locator :common_termsLocatorType :id
+08/16/2022 11:20:19 AM - AdPage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='common_terms']LocatorType :xpath
+08/16/2022 11:20:19 AM - AdPage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='facebook_terms']LocatorType :xpath
+08/16/2022 11:20:19 AM - AdPage - INFO: Element Found Locator :facebook_termsLocatorType :id
+08/16/2022 11:20:19 AM - AdPage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='facebook_terms']LocatorType :xpath
+08/16/2022 11:20:19 AM - AdPage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='hypeddit_terms']LocatorType :xpath
+08/16/2022 11:20:19 AM - AdPage - INFO: Element Found Locator :hypeddit_termsLocatorType :id
+08/16/2022 11:20:20 AM - AdPage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='hypeddit_terms']LocatorType :xpath
+08/16/2022 11:20:20 AM - AdPage - INFO: Element Found Locator :next_box_button_confirmationLocatorType :id
+08/16/2022 11:20:20 AM - AdPage - INFO: Clicked on the Element Locator :next_box_button_confirmationLocatorType :id
+08/16/2022 11:43:28 AM - FangatePage - INFO: Element Found Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+08/16/2022 11:43:28 AM - FangatePage - INFO: Send Keys Successfully Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+08/16/2022 11:43:28 AM - FangatePage - INFO: Element Found Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+08/16/2022 11:43:35 AM - FangatePage - INFO: Clicked on the Element Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+08/16/2022 11:43:35 AM - LoginPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:43:35 AM - LoginPage - INFO: Element appeared on the web page
+08/16/2022 11:43:35 AM - LoginPage - INFO: Element Found Locator :LoginLocatorType :link
+08/16/2022 11:43:36 AM - LoginPage - INFO: Clicked on the Element Locator :LoginLocatorType :link
+08/16/2022 11:43:36 AM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+08/16/2022 11:43:36 AM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+08/16/2022 11:43:36 AM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+08/16/2022 11:43:36 AM - LoginPage - INFO: Send Keys Successfully Locator :login_emailLocatorType :id
+08/16/2022 11:43:36 AM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+08/16/2022 11:43:36 AM - LoginPage - INFO: Send Keys Successfully Locator :login_passwordLocatorType :id
+08/16/2022 11:43:36 AM - LoginPage - INFO: Element Found Locator :login_buttonLocatorType :id
+08/16/2022 11:43:43 AM - LoginPage - INFO: Clicked on the Element Locator :login_buttonLocatorType :id
+08/16/2022 11:43:49 AM - EditPage - INFO: Element Not Found Locator :next_box_button_choose-typeLocatorType :id
+08/16/2022 11:43:49 AM - EditPage - INFO: Cannot clicked on the Element Locator :next_box_button_choose-typeLocatorType :id
+08/16/2022 11:43:52 AM - EditPage - INFO: Element Not Found Locator :next_box_button_facebook-account-connectLocatorType :id
+08/16/2022 11:43:52 AM - EditPage - INFO: Cannot clicked on the Element Locator :next_box_button_facebook-account-connectLocatorType :id
+08/16/2022 11:43:55 AM - EditPage - INFO: Element Not Found Locator :track_urlLocatorType :id
+08/16/2022 11:44:36 AM - FangatePage - INFO: Element Found Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+08/16/2022 11:44:37 AM - FangatePage - INFO: Send Keys Successfully Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+08/16/2022 11:44:37 AM - FangatePage - INFO: Element Found Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+08/16/2022 11:44:43 AM - FangatePage - INFO: Clicked on the Element Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+08/16/2022 11:44:43 AM - LoginPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:44:43 AM - LoginPage - INFO: Element appeared on the web page
+08/16/2022 11:44:43 AM - LoginPage - INFO: Element Found Locator :LoginLocatorType :link
+08/16/2022 11:44:44 AM - LoginPage - INFO: Clicked on the Element Locator :LoginLocatorType :link
+08/16/2022 11:44:44 AM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+08/16/2022 11:44:44 AM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+08/16/2022 11:44:44 AM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+08/16/2022 11:44:44 AM - LoginPage - INFO: Send Keys Successfully Locator :login_emailLocatorType :id
+08/16/2022 11:44:44 AM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+08/16/2022 11:44:45 AM - LoginPage - INFO: Send Keys Successfully Locator :login_passwordLocatorType :id
+08/16/2022 11:44:45 AM - LoginPage - INFO: Element Found Locator :login_buttonLocatorType :id
+08/16/2022 11:44:50 AM - LoginPage - INFO: Clicked on the Element Locator :login_buttonLocatorType :id
+08/16/2022 11:44:54 AM - EditPage - INFO: Element Found Locator :next_box_button_choose-typeLocatorType :id
+08/16/2022 11:44:54 AM - EditPage - INFO: Clicked on the Element Locator :next_box_button_choose-typeLocatorType :id
+08/16/2022 11:44:54 AM - EditPage - INFO: Element Found Locator :next_box_button_facebook-account-connectLocatorType :id
+08/16/2022 11:44:54 AM - EditPage - INFO: Clicked on the Element Locator :next_box_button_facebook-account-connectLocatorType :id
+08/16/2022 11:44:54 AM - EditPage - INFO: Element Found Locator :track_urlLocatorType :id
+08/16/2022 11:44:54 AM - EditPage - INFO: Element Found Locator :track_urlLocatorType :id
+08/16/2022 11:44:54 AM - EditPage - INFO: Send Keys Successfully Locator :track_urlLocatorType :id
+08/16/2022 11:44:54 AM - EditPage - INFO: Element Found Locator :artist_nameLocatorType :id
+08/16/2022 11:44:55 AM - EditPage - INFO: Clicked on the Element Locator :artist_nameLocatorType :id
+08/16/2022 11:45:00 AM - EditPage - INFO: Element Not Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 11:45:00 AM - EditPage - INFO: Element Not Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 11:45:00 AM - EditPage - INFO: Element Found Locator :artist_nameLocatorType :id
+08/16/2022 11:45:00 AM - EditPage - INFO: Send Keys Successfully Locator :artist_nameLocatorType :id
+08/16/2022 11:45:00 AM - EditPage - INFO: Element Found Locator :titleLocatorType :id
+08/16/2022 11:45:00 AM - EditPage - INFO: Send Keys Successfully Locator :titleLocatorType :id
+08/16/2022 11:45:00 AM - EditPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:45:00 AM - EditPage - INFO: Element appeared on the web page
+08/16/2022 11:45:00 AM - EditPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Bass']LocatorType :xpath
+08/16/2022 11:45:00 AM - EditPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Bass']LocatorType :xpath
+08/16/2022 11:45:00 AM - EditPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Future House']LocatorType :xpath
+08/16/2022 11:45:00 AM - EditPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Future House']LocatorType :xpath
+08/16/2022 11:45:00 AM - EditPage - INFO: Element Found Locator :next_box_button_musicLocatorType :id
+08/16/2022 11:45:01 AM - EditPage - INFO: Clicked on the Element Locator :next_box_button_musicLocatorType :id
+08/16/2022 11:45:01 AM - EditPage - INFO: Element Found Locator :inputFilemp3LocatorType :id
+08/16/2022 11:45:01 AM - EditPage - INFO: Send Keys Successfully Locator :inputFilemp3LocatorType :id
+08/16/2022 11:45:08 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:08 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:10 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:10 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:12 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:12 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:14 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:14 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:16 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:16 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:18 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:18 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:20 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:20 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:22 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:22 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:24 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:24 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:26 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:26 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:28 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:28 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:30 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:30 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:32 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:32 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:34 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:34 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:36 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:36 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:38 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:38 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:40 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:40 AM - EditPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:45 AM - EditPage - INFO: Element Not Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:45 AM - EditPage - INFO: Element Not Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 11:45:45 AM - EditPage - INFO: Element Found Locator :next_box_button_audio-videoLocatorType :id
+08/16/2022 11:45:45 AM - EditPage - INFO: Clicked on the Element Locator :next_box_button_audio-videoLocatorType :id
+08/16/2022 11:45:45 AM - EditPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:45:45 AM - EditPage - INFO: Element appeared on the web page
+08/16/2022 11:45:45 AM - EditPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose a saved list to fill in countries from']LocatorType :xpath
+08/16/2022 11:45:45 AM - EditPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose a saved list to fill in countries from']LocatorType :xpath
+08/16/2022 11:45:45 AM - EditPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Tier Three Countries']LocatorType :xpath
+08/16/2022 11:45:46 AM - EditPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Tier Three Countries']LocatorType :xpath
+08/16/2022 11:45:47 AM - EditPage - INFO: Element Found Locator :next_box_button_countriesLocatorType :id
+08/16/2022 11:45:47 AM - EditPage - INFO: Clicked on the Element Locator :next_box_button_countriesLocatorType :id
+08/16/2022 11:45:47 AM - EditPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:45:57 AM - EditPage - INFO: Element appeared on the web page
+08/16/2022 11:45:57 AM - EditPage - INFO: Element Found Locator :generateInterestsButtonLocatorType :id
+08/16/2022 11:45:58 AM - EditPage - INFO: Clicked on the Element Locator :generateInterestsButtonLocatorType :id
+08/16/2022 11:46:00 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:00 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:02 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:02 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:04 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:04 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:06 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:06 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:08 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:08 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:10 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:10 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:12 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:12 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:14 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:14 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:16 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:16 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:18 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:18 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:20 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:20 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:22 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:22 AM - EditPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:27 AM - EditPage - INFO: Element Not Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:27 AM - EditPage - INFO: Element Not Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 11:46:27 AM - EditPage - INFO: Element Found Locator :next_box_button_interestsLocatorType :id
+08/16/2022 11:46:27 AM - EditPage - INFO: Clicked on the Element Locator :next_box_button_interestsLocatorType :id
+08/16/2022 11:46:27 AM - EditPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:46:27 AM - EditPage - INFO: Element appeared on the web page
+08/16/2022 11:46:27 AM - EditPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='420']LocatorType :xpath
+08/16/2022 11:46:27 AM - EditPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='420']LocatorType :xpath
+08/16/2022 11:46:27 AM - EditPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='500']LocatorType :xpath
+08/16/2022 11:46:28 AM - EditPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='500']LocatorType :xpath
+08/16/2022 11:46:28 AM - EditPage - INFO: Element Found Locator :next_box_button_budgetLocatorType :id
+08/16/2022 11:46:28 AM - EditPage - INFO: Clicked on the Element Locator :next_box_button_budgetLocatorType :id
+08/16/2022 11:46:30 AM - EditPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:46:30 AM - EditPage - INFO: Element appeared on the web page
+08/16/2022 11:46:30 AM - EditPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='18']LocatorType :xpath
+08/16/2022 11:46:30 AM - EditPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='18']LocatorType :xpath
+08/16/2022 11:46:33 AM - EditPage - INFO: Element Not Found Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='21']LocatorType :xpath
+08/16/2022 11:46:33 AM - EditPage - INFO: Cannot clicked on the Element Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='21']LocatorType :xpath
+08/16/2022 11:46:35 AM - EditPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:46:35 AM - EditPage - INFO: Element appeared on the web page
+08/16/2022 11:46:35 AM - EditPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='65']LocatorType :xpath
+08/16/2022 11:46:35 AM - EditPage - INFO: Cannot clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='65']LocatorType :xpath
+08/16/2022 11:46:38 AM - EditPage - INFO: Element Not Found Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='67']LocatorType :xpath
+08/16/2022 11:46:38 AM - EditPage - INFO: Cannot clicked on the Element Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='67']LocatorType :xpath
+08/16/2022 11:46:40 AM - EditPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 11:46:40 AM - EditPage - INFO: Element appeared on the web page
+08/16/2022 11:46:40 AM - EditPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Men']LocatorType :xpath
+08/16/2022 11:46:40 AM - EditPage - INFO: Cannot clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Men']LocatorType :xpath
+08/16/2022 11:46:40 AM - EditPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Women']LocatorType :xpath
+08/16/2022 11:46:40 AM - EditPage - INFO: Cannot clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Women']LocatorType :xpath
+08/16/2022 11:46:40 AM - EditPage - INFO: Element Found Locator :headline_text_overrideLocatorType :id
+08/16/2022 11:46:40 AM - EditPage - INFO: Send Keys Successfully Locator :headline_text_overrideLocatorType :id
+08/16/2022 11:46:40 AM - EditPage - INFO: Element Found Locator :next_box_button_advancedLocatorType :id
+08/16/2022 11:46:41 AM - EditPage - INFO: Clicked on the Element Locator :next_box_button_advancedLocatorType :id
+08/16/2022 11:46:41 AM - EditPage - INFO: Element Found Locator :next_box_button_confirmationLocatorType :id
+08/16/2022 11:46:41 AM - EditPage - INFO: Clicked on the Element Locator :next_box_button_confirmationLocatorType :id
+08/16/2022 12:45:12 PM - FangatePage - INFO: Element Found Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+08/16/2022 12:45:12 PM - FangatePage - INFO: Send Keys Successfully Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+08/16/2022 12:45:12 PM - FangatePage - INFO: Element Found Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+08/16/2022 12:45:17 PM - FangatePage - INFO: Clicked on the Element Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+08/16/2022 12:45:17 PM - LoginPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 12:45:18 PM - LoginPage - INFO: Element appeared on the web page
+08/16/2022 12:45:18 PM - LoginPage - INFO: Element Found Locator :LoginLocatorType :link
+08/16/2022 12:45:19 PM - LoginPage - INFO: Clicked on the Element Locator :LoginLocatorType :link
+08/16/2022 12:45:19 PM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+08/16/2022 12:45:19 PM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+08/16/2022 12:45:19 PM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+08/16/2022 12:45:21 PM - LoginPage - INFO: Send Keys Successfully Locator :login_emailLocatorType :id
+08/16/2022 12:45:21 PM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+08/16/2022 12:45:21 PM - LoginPage - INFO: Send Keys Successfully Locator :login_passwordLocatorType :id
+08/16/2022 12:45:21 PM - LoginPage - INFO: Element Found Locator :login_buttonLocatorType :id
+08/16/2022 12:45:33 PM - LoginPage - INFO: Clicked on the Element Locator :login_buttonLocatorType :id
+08/16/2022 12:45:35 PM - AdPage - INFO: Element Found Locator :next_box_button_choose-typeLocatorType :id
+08/16/2022 12:45:35 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_choose-typeLocatorType :id
+08/16/2022 12:45:35 PM - AdPage - INFO: Element Found Locator :AdsFacebookLoginLocatorType :id
+08/16/2022 12:45:36 PM - AdPage - INFO: Clicked on the Element Locator :AdsFacebookLoginLocatorType :id
+08/16/2022 12:45:40 PM - AdPage - INFO: Element Found Locator :emailLocatorType :id
+08/16/2022 12:45:40 PM - AdPage - INFO: Send Keys Successfully Locator :emailLocatorType :id
+08/16/2022 12:45:42 PM - AdPage - INFO: Element Found Locator :passLocatorType :id
+08/16/2022 12:45:42 PM - AdPage - INFO: Send Keys Successfully Locator :passLocatorType :id
+08/16/2022 12:45:44 PM - AdPage - INFO: Element Found Locator ://input[@value='Log In']LocatorType :xpath
+08/16/2022 12:45:48 PM - AdPage - INFO: Clicked on the Element Locator ://input[@value='Log In']LocatorType :xpath
+08/16/2022 12:45:48 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 12:45:48 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 12:45:48 PM - AdPage - INFO: Element Found Locator ://span[text()='Continue as Anil Sharma']LocatorType :xpath
+08/16/2022 12:45:49 PM - AdPage - INFO: Clicked on the Element Locator ://span[text()='Continue as Anil Sharma']LocatorType :xpath
+08/16/2022 12:45:59 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 12:45:59 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 12:45:59 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select page']LocatorType :xpath
+08/16/2022 12:45:59 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select page']LocatorType :xpath
+08/16/2022 12:45:59 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Musical']LocatorType :xpath
+08/16/2022 12:45:59 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Musical']LocatorType :xpath
+08/16/2022 12:45:59 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 12:45:59 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 12:45:59 PM - AdPage - INFO: Element Found Locator ://button[@data-id='ads_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 12:45:59 PM - AdPage - INFO: Clicked on the Element Locator ://button[@data-id='ads_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 12:45:59 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='1447513952355862 [Anil Sharma]']LocatorType :xpath
+08/16/2022 12:46:00 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='1447513952355862 [Anil Sharma]']LocatorType :xpath
+08/16/2022 12:46:00 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 12:46:00 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 12:46:00 PM - AdPage - INFO: Element Found Locator ://button[@data-id='instagram_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 12:46:00 PM - AdPage - INFO: Clicked on the Element Locator ://button[@data-id='instagram_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 12:46:00 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='anilangira100']LocatorType :xpath
+08/16/2022 12:46:00 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='anilangira100']LocatorType :xpath
+08/16/2022 12:46:00 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 12:46:00 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 12:46:00 PM - AdPage - INFO: Element Found Locator ://button[@data-id='facebook_pixel_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 12:46:01 PM - AdPage - INFO: Clicked on the Element Locator ://button[@data-id='facebook_pixel_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 12:46:01 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='1597053410709523 [My Pixel]']LocatorType :xpath
+08/16/2022 12:46:01 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='1597053410709523 [My Pixel]']LocatorType :xpath
+08/16/2022 12:46:01 PM - AdPage - INFO: Element Found Locator :next_box_button_facebook-account-connectLocatorType :id
+08/16/2022 12:46:01 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_facebook-account-connectLocatorType :id
+08/16/2022 12:46:01 PM - AdPage - INFO: Element Found Locator :track_urlLocatorType :id
+08/16/2022 12:46:01 PM - AdPage - INFO: Send Keys Successfully Locator :track_urlLocatorType :id
+08/16/2022 12:46:01 PM - AdPage - INFO: Element Found Locator :artist_nameLocatorType :id
+08/16/2022 12:46:01 PM - AdPage - INFO: Clicked on the Element Locator :artist_nameLocatorType :id
+08/16/2022 12:46:03 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 12:46:03 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 12:46:05 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 12:46:05 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 12:46:07 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 12:46:07 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 12:46:09 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 12:46:09 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 12:46:14 PM - AdPage - INFO: Element Not Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 12:46:14 PM - AdPage - INFO: Element Not Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 12:46:15 PM - AdPage - INFO: Element Found Locator :artist_nameLocatorType :id
+08/16/2022 12:46:15 PM - AdPage - INFO: Send Keys Successfully Locator :artist_nameLocatorType :id
+08/16/2022 12:46:15 PM - AdPage - INFO: Element Found Locator :titleLocatorType :id
+08/16/2022 12:46:15 PM - AdPage - INFO: Send Keys Successfully Locator :titleLocatorType :id
+08/16/2022 12:46:15 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 12:46:15 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 12:46:15 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select genre']LocatorType :xpath
+08/16/2022 12:46:15 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select genre']LocatorType :xpath
+08/16/2022 12:46:15 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Bass']LocatorType :xpath
+08/16/2022 12:46:15 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Bass']LocatorType :xpath
+08/16/2022 12:46:15 PM - AdPage - INFO: Element Found Locator :next_box_button_musicLocatorType :id
+08/16/2022 12:46:15 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_musicLocatorType :id
+08/16/2022 12:46:15 PM - AdPage - INFO: Element Found Locator :inputFilemp3LocatorType :id
+08/16/2022 12:46:15 PM - AdPage - INFO: Send Keys Successfully Locator :inputFilemp3LocatorType :id
+08/16/2022 12:46:15 PM - AdPage - INFO: Element Found Locator :inputFilemp4LocatorType :id
+08/16/2022 12:46:15 PM - AdPage - INFO: Send Keys Successfully Locator :inputFilemp4LocatorType :id
+08/16/2022 12:46:20 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:20 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:22 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:22 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:24 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:24 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:26 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:26 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:28 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:28 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:30 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:30 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:32 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:32 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:34 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:34 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:37 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:37 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:39 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:39 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:41 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:41 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:43 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:43 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:45 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:45 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:47 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:47 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:49 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:49 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:51 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:51 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:53 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:53 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:55 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:55 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:57 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:57 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:59 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:46:59 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:01 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:01 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:03 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:03 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:05 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:05 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:07 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:07 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:09 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:09 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:11 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:11 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:13 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:13 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:15 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:15 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:17 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:17 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:19 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:19 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:21 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:21 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:23 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:23 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:25 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:25 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:30 PM - AdPage - INFO: Element Not Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:30 PM - AdPage - INFO: Element Not Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 12:47:30 PM - AdPage - INFO: Element Found Locator :next_box_button_audio-videoLocatorType :id
+08/16/2022 12:47:30 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_audio-videoLocatorType :id
+08/16/2022 12:47:30 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 12:47:30 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 12:47:30 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose a saved list to fill in countries from']LocatorType :xpath
+08/16/2022 12:47:30 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose a saved list to fill in countries from']LocatorType :xpath
+08/16/2022 12:47:30 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Tier One Countries']LocatorType :xpath
+08/16/2022 12:47:31 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Tier One Countries']LocatorType :xpath
+08/16/2022 12:47:32 PM - AdPage - INFO: Element Found Locator :next_box_button_countriesLocatorType :id
+08/16/2022 12:47:32 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_countriesLocatorType :id
+08/16/2022 12:47:32 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 12:47:45 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 12:47:45 PM - AdPage - INFO: Element Found Locator :generateInterestsButtonLocatorType :id
+08/16/2022 12:47:45 PM - AdPage - INFO: Clicked on the Element Locator :generateInterestsButtonLocatorType :id
+08/16/2022 12:47:47 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:47:47 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:47:49 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:47:49 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:47:51 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:47:51 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:47:53 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:47:53 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:47:55 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:47:55 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:47:57 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:47:57 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:48:02 PM - AdPage - INFO: Element Not Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:48:02 PM - AdPage - INFO: Element Not Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 12:48:02 PM - AdPage - INFO: Element Found Locator :next_box_button_interestsLocatorType :id
+08/16/2022 12:48:03 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_interestsLocatorType :id
+08/16/2022 12:48:03 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 12:48:03 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 12:48:03 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose INR Per Day']LocatorType :xpath
+08/16/2022 12:48:03 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose INR Per Day']LocatorType :xpath
+08/16/2022 12:48:03 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='420']LocatorType :xpath
+08/16/2022 12:48:03 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='420']LocatorType :xpath
+08/16/2022 12:48:03 PM - AdPage - INFO: Element Found Locator :next_box_button_budgetLocatorType :id
+08/16/2022 12:48:03 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_budgetLocatorType :id
+08/16/2022 12:48:05 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 12:48:05 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 12:48:05 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='18']LocatorType :xpath
+08/16/2022 12:48:06 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='18']LocatorType :xpath
+08/16/2022 12:48:06 PM - AdPage - INFO: Element Found Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='19']LocatorType :xpath
+08/16/2022 12:48:06 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='19']LocatorType :xpath
+08/16/2022 12:48:08 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 12:48:08 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 12:48:08 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='65']LocatorType :xpath
+08/16/2022 12:48:08 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='65']LocatorType :xpath
+08/16/2022 12:48:08 PM - AdPage - INFO: Element Found Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='61']LocatorType :xpath
+08/16/2022 12:48:08 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='61']LocatorType :xpath
+08/16/2022 12:48:10 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 12:48:11 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 12:48:11 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='All']LocatorType :xpath
+08/16/2022 12:48:11 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='All']LocatorType :xpath
+08/16/2022 12:48:11 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Men']LocatorType :xpath
+08/16/2022 12:48:11 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Men']LocatorType :xpath
+08/16/2022 12:48:11 PM - AdPage - INFO: Element Found Locator :headline_text_overrideLocatorType :id
+08/16/2022 12:48:11 PM - AdPage - INFO: Send Keys Successfully Locator :headline_text_overrideLocatorType :id
+08/16/2022 12:48:11 PM - AdPage - INFO: Element Found Locator :next_box_button_advancedLocatorType :id
+08/16/2022 12:48:11 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_advancedLocatorType :id
+08/16/2022 12:48:11 PM - AdPage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='common_terms']LocatorType :xpath
+08/16/2022 12:48:11 PM - AdPage - INFO: Element Found Locator :common_termsLocatorType :id
+08/16/2022 12:48:12 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='common_terms']LocatorType :xpath
+08/16/2022 12:48:12 PM - AdPage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='facebook_terms']LocatorType :xpath
+08/16/2022 12:48:12 PM - AdPage - INFO: Element Found Locator :facebook_termsLocatorType :id
+08/16/2022 12:48:12 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='facebook_terms']LocatorType :xpath
+08/16/2022 12:48:12 PM - AdPage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='hypeddit_terms']LocatorType :xpath
+08/16/2022 12:48:12 PM - AdPage - INFO: Element Found Locator :hypeddit_termsLocatorType :id
+08/16/2022 12:48:12 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='hypeddit_terms']LocatorType :xpath
+08/16/2022 12:48:12 PM - AdPage - INFO: Element Found Locator :next_box_button_confirmationLocatorType :id
+08/16/2022 12:48:12 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_confirmationLocatorType :id
+08/16/2022 01:02:17 PM - FangatePage - INFO: Element Found Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+08/16/2022 01:02:17 PM - FangatePage - INFO: Send Keys Successfully Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+08/16/2022 01:02:17 PM - FangatePage - INFO: Element Found Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+08/16/2022 01:02:24 PM - FangatePage - INFO: Clicked on the Element Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+08/16/2022 01:02:24 PM - LoginPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 01:02:24 PM - LoginPage - INFO: Element appeared on the web page
+08/16/2022 01:02:24 PM - LoginPage - INFO: Element Found Locator :LoginLocatorType :link
+08/16/2022 01:02:25 PM - LoginPage - INFO: Clicked on the Element Locator :LoginLocatorType :link
+08/16/2022 01:02:25 PM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+08/16/2022 01:02:25 PM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+08/16/2022 01:02:25 PM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+08/16/2022 01:02:25 PM - LoginPage - INFO: Send Keys Successfully Locator :login_emailLocatorType :id
+08/16/2022 01:02:25 PM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+08/16/2022 01:02:26 PM - LoginPage - INFO: Send Keys Successfully Locator :login_passwordLocatorType :id
+08/16/2022 01:02:26 PM - LoginPage - INFO: Element Found Locator :login_buttonLocatorType :id
+08/16/2022 01:02:31 PM - LoginPage - INFO: Clicked on the Element Locator :login_buttonLocatorType :id
+08/16/2022 01:02:33 PM - AdPage - INFO: Element Found Locator :next_box_button_choose-typeLocatorType :id
+08/16/2022 01:02:33 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_choose-typeLocatorType :id
+08/16/2022 01:02:33 PM - AdPage - INFO: Element Found Locator :AdsFacebookLoginLocatorType :id
+08/16/2022 01:02:34 PM - AdPage - INFO: Clicked on the Element Locator :AdsFacebookLoginLocatorType :id
+08/16/2022 01:02:38 PM - AdPage - INFO: Element Found Locator :emailLocatorType :id
+08/16/2022 01:02:38 PM - AdPage - INFO: Send Keys Successfully Locator :emailLocatorType :id
+08/16/2022 01:02:40 PM - AdPage - INFO: Element Found Locator :passLocatorType :id
+08/16/2022 01:02:40 PM - AdPage - INFO: Send Keys Successfully Locator :passLocatorType :id
+08/16/2022 01:02:42 PM - AdPage - INFO: Element Found Locator ://input[@value='Log In']LocatorType :xpath
+08/16/2022 01:02:46 PM - AdPage - INFO: Clicked on the Element Locator ://input[@value='Log In']LocatorType :xpath
+08/16/2022 01:02:46 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 01:02:46 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 01:02:46 PM - AdPage - INFO: Element Found Locator ://span[text()='Continue as Anil Sharma']LocatorType :xpath
+08/16/2022 01:02:47 PM - AdPage - INFO: Clicked on the Element Locator ://span[text()='Continue as Anil Sharma']LocatorType :xpath
+08/16/2022 01:02:57 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 01:02:57 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 01:02:57 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select page']LocatorType :xpath
+08/16/2022 01:02:58 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select page']LocatorType :xpath
+08/16/2022 01:02:58 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Musical']LocatorType :xpath
+08/16/2022 01:02:58 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Musical']LocatorType :xpath
+08/16/2022 01:02:58 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 01:02:58 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 01:02:58 PM - AdPage - INFO: Element Found Locator ://button[@data-id='ads_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 01:02:58 PM - AdPage - INFO: Clicked on the Element Locator ://button[@data-id='ads_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 01:02:58 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='1447513952355862 [Anil Sharma]']LocatorType :xpath
+08/16/2022 01:02:59 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='1447513952355862 [Anil Sharma]']LocatorType :xpath
+08/16/2022 01:02:59 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 01:02:59 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 01:02:59 PM - AdPage - INFO: Element Found Locator ://button[@data-id='instagram_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 01:02:59 PM - AdPage - INFO: Clicked on the Element Locator ://button[@data-id='instagram_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 01:02:59 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='anilangira100']LocatorType :xpath
+08/16/2022 01:02:59 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='anilangira100']LocatorType :xpath
+08/16/2022 01:02:59 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 01:02:59 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 01:02:59 PM - AdPage - INFO: Element Found Locator ://button[@data-id='facebook_pixel_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 01:03:00 PM - AdPage - INFO: Clicked on the Element Locator ://button[@data-id='facebook_pixel_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 01:03:00 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='1597053410709523 [My Pixel]']LocatorType :xpath
+08/16/2022 01:03:00 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='1597053410709523 [My Pixel]']LocatorType :xpath
+08/16/2022 01:03:00 PM - AdPage - INFO: Element Found Locator :next_box_button_facebook-account-connectLocatorType :id
+08/16/2022 01:03:00 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_facebook-account-connectLocatorType :id
+08/16/2022 01:03:00 PM - AdPage - INFO: Element Found Locator :track_urlLocatorType :id
+08/16/2022 01:03:00 PM - AdPage - INFO: Send Keys Successfully Locator :track_urlLocatorType :id
+08/16/2022 01:03:00 PM - AdPage - INFO: Element Found Locator :artist_nameLocatorType :id
+08/16/2022 01:03:00 PM - AdPage - INFO: Clicked on the Element Locator :artist_nameLocatorType :id
+08/16/2022 01:03:02 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 01:03:02 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 01:03:04 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 01:03:04 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 01:03:06 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 01:03:06 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 01:03:08 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 01:03:08 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 01:03:13 PM - AdPage - INFO: Element Not Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 01:03:13 PM - AdPage - INFO: Element Not Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 01:03:14 PM - AdPage - INFO: Element Found Locator :artist_nameLocatorType :id
+08/16/2022 01:03:14 PM - AdPage - INFO: Send Keys Successfully Locator :artist_nameLocatorType :id
+08/16/2022 01:03:14 PM - AdPage - INFO: Element Found Locator :titleLocatorType :id
+08/16/2022 01:03:14 PM - AdPage - INFO: Send Keys Successfully Locator :titleLocatorType :id
+08/16/2022 01:03:14 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 01:03:14 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 01:03:14 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select genre']LocatorType :xpath
+08/16/2022 01:03:14 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select genre']LocatorType :xpath
+08/16/2022 01:03:14 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Bass']LocatorType :xpath
+08/16/2022 01:03:14 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Bass']LocatorType :xpath
+08/16/2022 01:03:14 PM - AdPage - INFO: Element Found Locator :next_box_button_musicLocatorType :id
+08/16/2022 01:03:14 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_musicLocatorType :id
+08/16/2022 01:03:14 PM - AdPage - INFO: Element Found Locator :inputFilemp3LocatorType :id
+08/16/2022 01:03:14 PM - AdPage - INFO: Send Keys Successfully Locator :inputFilemp3LocatorType :id
+08/16/2022 01:03:14 PM - AdPage - INFO: Element Found Locator :inputFilemp4LocatorType :id
+08/16/2022 01:03:14 PM - AdPage - INFO: Send Keys Successfully Locator :inputFilemp4LocatorType :id
+08/16/2022 01:03:20 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:20 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:22 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:22 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:24 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:24 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:26 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:26 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:28 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:28 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:30 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:30 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:32 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:32 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:34 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:34 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:36 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:36 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:38 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:38 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:40 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:40 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:42 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:42 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:44 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:44 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:46 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:46 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:48 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:48 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:50 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:50 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:52 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:52 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:54 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:54 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:56 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:56 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:58 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:03:58 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:00 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:00 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:02 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:02 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:04 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:04 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:06 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:06 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:08 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:08 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:10 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:10 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:12 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:12 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:14 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:14 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:16 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:16 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:18 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:18 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:20 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:20 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:25 PM - AdPage - INFO: Element Not Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:25 PM - AdPage - INFO: Element Not Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 01:04:25 PM - AdPage - INFO: Element Found Locator :next_box_button_audio-videoLocatorType :id
+08/16/2022 01:04:25 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_audio-videoLocatorType :id
+08/16/2022 01:04:25 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 01:04:25 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 01:04:25 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose a saved list to fill in countries from']LocatorType :xpath
+08/16/2022 01:04:25 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose a saved list to fill in countries from']LocatorType :xpath
+08/16/2022 01:04:25 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Tier One Countries']LocatorType :xpath
+08/16/2022 01:04:26 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Tier One Countries']LocatorType :xpath
+08/16/2022 01:04:27 PM - AdPage - INFO: Element Found Locator :next_box_button_countriesLocatorType :id
+08/16/2022 01:04:27 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_countriesLocatorType :id
+08/16/2022 01:04:27 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 01:04:43 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 01:04:43 PM - AdPage - INFO: Element Found Locator :generateInterestsButtonLocatorType :id
+08/16/2022 01:04:43 PM - AdPage - INFO: Clicked on the Element Locator :generateInterestsButtonLocatorType :id
+08/16/2022 01:04:45 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 01:04:45 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 01:04:47 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 01:04:47 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 01:04:52 PM - AdPage - INFO: Element Not Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 01:04:52 PM - AdPage - INFO: Element Not Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 01:04:52 PM - AdPage - INFO: Element Found Locator :next_box_button_interestsLocatorType :id
+08/16/2022 01:04:52 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_interestsLocatorType :id
+08/16/2022 01:04:52 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 01:04:52 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 01:04:52 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose INR Per Day']LocatorType :xpath
+08/16/2022 01:04:53 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose INR Per Day']LocatorType :xpath
+08/16/2022 01:04:53 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='420']LocatorType :xpath
+08/16/2022 01:04:53 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='420']LocatorType :xpath
+08/16/2022 01:04:53 PM - AdPage - INFO: Element Found Locator :next_box_button_budgetLocatorType :id
+08/16/2022 01:04:53 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_budgetLocatorType :id
+08/16/2022 01:04:55 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 01:04:55 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 01:04:55 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='18']LocatorType :xpath
+08/16/2022 01:04:55 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='18']LocatorType :xpath
+08/16/2022 01:04:55 PM - AdPage - INFO: Element Found Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='19']LocatorType :xpath
+08/16/2022 01:04:56 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='19']LocatorType :xpath
+08/16/2022 01:04:58 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 01:04:58 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 01:04:58 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='65']LocatorType :xpath
+08/16/2022 01:04:58 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='65']LocatorType :xpath
+08/16/2022 01:04:58 PM - AdPage - INFO: Element Found Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='61']LocatorType :xpath
+08/16/2022 01:04:58 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='61']LocatorType :xpath
+08/16/2022 01:05:00 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 01:05:00 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 01:05:00 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='All']LocatorType :xpath
+08/16/2022 01:05:00 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='All']LocatorType :xpath
+08/16/2022 01:05:00 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Men']LocatorType :xpath
+08/16/2022 01:05:01 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Men']LocatorType :xpath
+08/16/2022 01:05:01 PM - AdPage - INFO: Element Found Locator :headline_text_overrideLocatorType :id
+08/16/2022 01:05:01 PM - AdPage - INFO: Send Keys Successfully Locator :headline_text_overrideLocatorType :id
+08/16/2022 01:05:01 PM - AdPage - INFO: Element Found Locator :next_box_button_advancedLocatorType :id
+08/16/2022 01:05:01 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_advancedLocatorType :id
+08/16/2022 01:05:01 PM - AdPage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='common_terms']LocatorType :xpath
+08/16/2022 01:05:01 PM - AdPage - INFO: Element Found Locator :common_termsLocatorType :id
+08/16/2022 01:05:01 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='common_terms']LocatorType :xpath
+08/16/2022 01:05:01 PM - AdPage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='facebook_terms']LocatorType :xpath
+08/16/2022 01:05:01 PM - AdPage - INFO: Element Found Locator :facebook_termsLocatorType :id
+08/16/2022 01:05:02 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='facebook_terms']LocatorType :xpath
+08/16/2022 01:05:02 PM - AdPage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='hypeddit_terms']LocatorType :xpath
+08/16/2022 01:05:02 PM - AdPage - INFO: Element Found Locator :hypeddit_termsLocatorType :id
+08/16/2022 01:05:02 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='hypeddit_terms']LocatorType :xpath
+08/16/2022 01:05:02 PM - AdPage - INFO: Element Found Locator :next_box_button_confirmationLocatorType :id
+08/16/2022 01:05:02 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_confirmationLocatorType :id
+08/16/2022 02:40:42 PM - FangatePage - INFO: Element Found Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+08/16/2022 02:40:43 PM - FangatePage - INFO: Send Keys Successfully Locator ://form[@id='devlock']//input[@type='password']LocatorType :xpath
+08/16/2022 02:40:43 PM - FangatePage - INFO: Element Found Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+08/16/2022 02:40:53 PM - FangatePage - INFO: Clicked on the Element Locator ://div[@class='form-group']//button[@type='submit']LocatorType :xpath
+08/16/2022 02:40:53 PM - LoginPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 02:40:54 PM - LoginPage - INFO: Element appeared on the web page
+08/16/2022 02:40:54 PM - LoginPage - INFO: Element Found Locator :LoginLocatorType :link
+08/16/2022 02:40:55 PM - LoginPage - INFO: Clicked on the Element Locator :LoginLocatorType :link
+08/16/2022 02:40:55 PM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+08/16/2022 02:40:55 PM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+08/16/2022 02:40:55 PM - LoginPage - INFO: Element Found Locator :login_emailLocatorType :id
+08/16/2022 02:40:56 PM - LoginPage - INFO: Send Keys Successfully Locator :login_emailLocatorType :id
+08/16/2022 02:40:56 PM - LoginPage - INFO: Element Found Locator :login_passwordLocatorType :id
+08/16/2022 02:40:56 PM - LoginPage - INFO: Send Keys Successfully Locator :login_passwordLocatorType :id
+08/16/2022 02:40:56 PM - LoginPage - INFO: Element Found Locator :login_buttonLocatorType :id
+08/16/2022 02:41:03 PM - LoginPage - INFO: Clicked on the Element Locator :login_buttonLocatorType :id
+08/16/2022 02:41:05 PM - AdPage - INFO: Element Found Locator :next_box_button_choose-typeLocatorType :id
+08/16/2022 02:41:05 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_choose-typeLocatorType :id
+08/16/2022 02:41:05 PM - AdPage - INFO: Element Found Locator :AdsFacebookLoginLocatorType :id
+08/16/2022 02:41:06 PM - AdPage - INFO: Clicked on the Element Locator :AdsFacebookLoginLocatorType :id
+08/16/2022 02:41:10 PM - AdPage - INFO: Element Found Locator :emailLocatorType :id
+08/16/2022 02:41:10 PM - AdPage - INFO: Send Keys Successfully Locator :emailLocatorType :id
+08/16/2022 02:41:12 PM - AdPage - INFO: Element Found Locator :passLocatorType :id
+08/16/2022 02:41:12 PM - AdPage - INFO: Send Keys Successfully Locator :passLocatorType :id
+08/16/2022 02:41:14 PM - AdPage - INFO: Element Found Locator ://input[@value='Log In']LocatorType :xpath
+08/16/2022 02:41:19 PM - AdPage - INFO: Clicked on the Element Locator ://input[@value='Log In']LocatorType :xpath
+08/16/2022 02:41:19 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 02:41:19 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 02:41:19 PM - AdPage - INFO: Element Found Locator ://span[text()='Continue as Anil Sharma']LocatorType :xpath
+08/16/2022 02:41:20 PM - AdPage - INFO: Clicked on the Element Locator ://span[text()='Continue as Anil Sharma']LocatorType :xpath
+08/16/2022 02:41:30 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 02:41:30 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 02:41:30 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select page']LocatorType :xpath
+08/16/2022 02:41:30 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select page']LocatorType :xpath
+08/16/2022 02:41:30 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Musical']LocatorType :xpath
+08/16/2022 02:41:31 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Musical']LocatorType :xpath
+08/16/2022 02:41:31 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 02:41:31 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 02:41:31 PM - AdPage - INFO: Element Found Locator ://button[@data-id='ads_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 02:41:31 PM - AdPage - INFO: Clicked on the Element Locator ://button[@data-id='ads_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 02:41:31 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='1447513952355862 [Anil Sharma]']LocatorType :xpath
+08/16/2022 02:41:31 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='1447513952355862 [Anil Sharma]']LocatorType :xpath
+08/16/2022 02:41:31 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 02:41:31 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 02:41:31 PM - AdPage - INFO: Element Found Locator ://button[@data-id='instagram_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 02:41:32 PM - AdPage - INFO: Clicked on the Element Locator ://button[@data-id='instagram_account_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 02:41:32 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='anilangira100']LocatorType :xpath
+08/16/2022 02:41:32 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='anilangira100']LocatorType :xpath
+08/16/2022 02:41:32 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 02:41:32 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 02:41:32 PM - AdPage - INFO: Element Found Locator ://button[@data-id='facebook_pixel_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 02:41:32 PM - AdPage - INFO: Clicked on the Element Locator ://button[@data-id='facebook_pixel_id']//span[text()='Select account']LocatorType :xpath
+08/16/2022 02:41:32 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='1597053410709523 [My Pixel]']LocatorType :xpath
+08/16/2022 02:41:32 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='1597053410709523 [My Pixel]']LocatorType :xpath
+08/16/2022 02:41:32 PM - AdPage - INFO: Element Found Locator :next_box_button_facebook-account-connectLocatorType :id
+08/16/2022 02:41:33 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_facebook-account-connectLocatorType :id
+08/16/2022 02:41:33 PM - AdPage - INFO: Element Found Locator :track_urlLocatorType :id
+08/16/2022 02:41:33 PM - AdPage - INFO: Send Keys Successfully Locator :track_urlLocatorType :id
+08/16/2022 02:41:33 PM - AdPage - INFO: Element Found Locator :artist_nameLocatorType :id
+08/16/2022 02:41:33 PM - AdPage - INFO: Clicked on the Element Locator :artist_nameLocatorType :id
+08/16/2022 02:41:35 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 02:41:35 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 02:41:37 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 02:41:37 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 02:41:39 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 02:41:39 PM - AdPage - INFO: Element Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 02:41:44 PM - AdPage - INFO: Element Not Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 02:41:44 PM - AdPage - INFO: Element Not Found Locator ://div[@class='loader select-loading'][contains(@style,'display: block')]LocatorType :xpath
+08/16/2022 02:41:44 PM - AdPage - INFO: Element Found Locator :artist_nameLocatorType :id
+08/16/2022 02:41:44 PM - AdPage - INFO: Send Keys Successfully Locator :artist_nameLocatorType :id
+08/16/2022 02:41:44 PM - AdPage - INFO: Element Found Locator :titleLocatorType :id
+08/16/2022 02:41:44 PM - AdPage - INFO: Send Keys Successfully Locator :titleLocatorType :id
+08/16/2022 02:41:44 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 02:41:44 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 02:41:44 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select genre']LocatorType :xpath
+08/16/2022 02:41:44 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Select genre']LocatorType :xpath
+08/16/2022 02:41:44 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Bass']LocatorType :xpath
+08/16/2022 02:41:45 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Bass']LocatorType :xpath
+08/16/2022 02:41:45 PM - AdPage - INFO: Element Found Locator :next_box_button_musicLocatorType :id
+08/16/2022 02:41:45 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_musicLocatorType :id
+08/16/2022 02:41:45 PM - AdPage - INFO: Element Found Locator :inputFilemp3LocatorType :id
+08/16/2022 02:41:45 PM - AdPage - INFO: Send Keys Successfully Locator :inputFilemp3LocatorType :id
+08/16/2022 02:41:45 PM - AdPage - INFO: Element Found Locator :inputFilemp4LocatorType :id
+08/16/2022 02:41:45 PM - AdPage - INFO: Send Keys Successfully Locator :inputFilemp4LocatorType :id
+08/16/2022 02:41:50 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:41:50 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:41:52 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:41:52 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:41:54 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:41:54 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:41:56 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:41:56 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:41:58 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:41:58 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:00 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:00 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:02 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:02 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:04 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:04 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:06 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:06 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:08 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:08 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:10 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:10 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:12 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:12 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:14 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:14 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:16 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:16 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:18 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:18 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:20 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:20 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:22 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:22 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:24 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:24 PM - AdPage - INFO: Element Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:29 PM - AdPage - INFO: Element Not Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:29 PM - AdPage - INFO: Element Not Found Locator ://img[@title='Loading']LocatorType :xpath
+08/16/2022 02:42:29 PM - AdPage - INFO: Element Found Locator :next_box_button_audio-videoLocatorType :id
+08/16/2022 02:42:29 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_audio-videoLocatorType :id
+08/16/2022 02:42:29 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 02:42:29 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 02:42:29 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose a saved list to fill in countries from']LocatorType :xpath
+08/16/2022 02:42:30 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose a saved list to fill in countries from']LocatorType :xpath
+08/16/2022 02:42:30 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Tier One Countries']LocatorType :xpath
+08/16/2022 02:42:30 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Tier One Countries']LocatorType :xpath
+08/16/2022 02:42:31 PM - AdPage - INFO: Element Found Locator :next_box_button_countriesLocatorType :id
+08/16/2022 02:42:31 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_countriesLocatorType :id
+08/16/2022 02:42:31 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 02:42:59 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 02:42:59 PM - AdPage - INFO: Element Found Locator :generateInterestsButtonLocatorType :id
+08/16/2022 02:42:59 PM - AdPage - INFO: Clicked on the Element Locator :generateInterestsButtonLocatorType :id
+08/16/2022 02:43:01 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:01 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:03 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:03 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:05 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:05 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:07 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:07 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:09 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:09 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:11 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:11 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:13 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:13 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:15 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:15 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:17 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:17 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:19 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:19 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:21 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:21 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:23 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:23 PM - AdPage - INFO: Element Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:28 PM - AdPage - INFO: Element Not Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:28 PM - AdPage - INFO: Element Not Found Locator ://div[@id='related_artists_interest_main'][contains(@class,'hide')]LocatorType :xpath
+08/16/2022 02:43:28 PM - AdPage - INFO: Element Found Locator :next_box_button_interestsLocatorType :id
+08/16/2022 02:43:29 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_interestsLocatorType :id
+08/16/2022 02:43:29 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 02:43:29 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 02:43:29 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose INR Per Day']LocatorType :xpath
+08/16/2022 02:43:29 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='Choose INR Per Day']LocatorType :xpath
+08/16/2022 02:43:29 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='420']LocatorType :xpath
+08/16/2022 02:43:29 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='420']LocatorType :xpath
+08/16/2022 02:43:29 PM - AdPage - INFO: Element Found Locator :next_box_button_budgetLocatorType :id
+08/16/2022 02:43:29 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_budgetLocatorType :id
+08/16/2022 02:43:31 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 02:43:31 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 02:43:31 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='18']LocatorType :xpath
+08/16/2022 02:43:32 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='18']LocatorType :xpath
+08/16/2022 02:43:32 PM - AdPage - INFO: Element Found Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='19']LocatorType :xpath
+08/16/2022 02:43:32 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='19']LocatorType :xpath
+08/16/2022 02:43:34 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 02:43:34 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 02:43:34 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='65']LocatorType :xpath
+08/16/2022 02:43:34 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='65']LocatorType :xpath
+08/16/2022 02:43:34 PM - AdPage - INFO: Element Found Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='61']LocatorType :xpath
+08/16/2022 02:43:34 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='61']LocatorType :xpath
+08/16/2022 02:43:36 PM - AdPage - INFO: Waiting for maximum :: 50 :: seconds for element to be clickable
+08/16/2022 02:43:37 PM - AdPage - INFO: Element appeared on the web page
+08/16/2022 02:43:37 PM - AdPage - INFO: Element Found Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='All']LocatorType :xpath
+08/16/2022 02:43:37 PM - AdPage - INFO: Clicked on the Element Locator ://button[@class='btn dropdown-toggle btn-default']//span[text()='All']LocatorType :xpath
+08/16/2022 02:43:37 PM - AdPage - INFO: Element Found Locator ://ul[@class='dropdown-menu inner']//span[text()='Men']LocatorType :xpath
+08/16/2022 02:43:37 PM - AdPage - INFO: Clicked on the Element Locator ://ul[@class='dropdown-menu inner']//span[text()='Men']LocatorType :xpath
+08/16/2022 02:43:37 PM - AdPage - INFO: Element Found Locator :headline_text_overrideLocatorType :id
+08/16/2022 02:43:37 PM - AdPage - INFO: Send Keys Successfully Locator :headline_text_overrideLocatorType :id
+08/16/2022 02:43:37 PM - AdPage - INFO: Element Found Locator :next_box_button_advancedLocatorType :id
+08/16/2022 02:43:37 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_advancedLocatorType :id
+08/16/2022 02:43:37 PM - AdPage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='common_terms']LocatorType :xpath
+08/16/2022 02:43:37 PM - AdPage - INFO: Element Found Locator :common_termsLocatorType :id
+08/16/2022 02:43:38 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='common_terms']LocatorType :xpath
+08/16/2022 02:43:38 PM - AdPage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='facebook_terms']LocatorType :xpath
+08/16/2022 02:43:38 PM - AdPage - INFO: Element Found Locator :facebook_termsLocatorType :id
+08/16/2022 02:43:38 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='facebook_terms']LocatorType :xpath
+08/16/2022 02:43:38 PM - AdPage - INFO: Element Found Locator ://div[@class='checkbox']//label[@for='hypeddit_terms']LocatorType :xpath
+08/16/2022 02:43:38 PM - AdPage - INFO: Element Found Locator :hypeddit_termsLocatorType :id
+08/16/2022 02:43:38 PM - AdPage - INFO: Clicked on the Element Locator ://div[@class='checkbox']//label[@for='hypeddit_terms']LocatorType :xpath
+08/16/2022 02:43:38 PM - AdPage - INFO: Element Found Locator :next_box_button_confirmationLocatorType :id
+08/16/2022 02:43:38 PM - AdPage - INFO: Clicked on the Element Locator :next_box_button_confirmationLocatorType :id

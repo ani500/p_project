@@ -21,6 +21,6 @@ class AdTests(unittest.TestCase):
         print("running createfnagate")
         self.fp.devUnlock("testdev123")
         self.lp.login("anil@baltech.in", "123456")
-        #self.ap.createAd()
-        self.ep.editAd()
+        self.ap.createAd()
+        #self.ep.editAd()
 
