@@ -39,7 +39,7 @@ class EditPage(SeleniumDriver):
     _ad_inputFilemp4 = "inputFilemp4"
     _ad_next_button = "next_box_button_audio-video"
 
-    _countries_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Choose a saved list to fill in countries from']"
+    _countries_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Tier Two Countries']"
     _select_countries = "//ul[@class='dropdown-menu inner']//span[text()='Tier Three Countries']"
     _countries_next_button = "next_box_button_countries"
 
@@ -54,7 +54,7 @@ class EditPage(SeleniumDriver):
     _advance_min_age_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='19']"
     _select_min_age = "//div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='21']"
     _advance_max_age_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='61']"
-    _select_max_age = "//div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='67']"
+    _select_max_age = "//div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='65']"
 
     _advance_gender_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Men']"
     _select_gender = "//ul[@class='dropdown-menu inner']//span[text()='Women']"
@@ -225,7 +225,7 @@ class EditPage(SeleniumDriver):
 
 
     def editAd(self):
-        self.driver.get("https://dev2.hypeddit.com/ads/edit/5a3c9157-56fc-4bab-ae8f-550e367847f0")
+        self.driver.get("https://dev2.hypeddit.com/ads/edit/8440b4e3-a044-425f-8dd5-f546c9b25bc3")
 
         self.goal()
         self.accountprofile()
@@ -301,7 +301,7 @@ class EditPage(SeleniumDriver):
 
     def     ad(self):
         self.mp3SendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\45 sec.mp3")
-        #self.mp4SendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\Hazard Lights - SGE Cover - Preview 1.mp4")
+        self.mp4SendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\Hazard Lights - SGE Cover - Preview 1.mp4")
         time.sleep(5)
         for i in range(51):
             if i > 49:
@@ -321,6 +321,7 @@ class EditPage(SeleniumDriver):
         self.clickCountriesNextButton()
 
     def interest(self):
+        self.waitFl(self._interest_next_button)
         self.clickGenerateInterestButton()
 
         for i in range(51):

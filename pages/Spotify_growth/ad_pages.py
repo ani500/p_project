@@ -39,8 +39,8 @@ class AdPage(SeleniumDriver):
     _ad_inputFilemp4 = "inputFilemp4"
     _ad_next_button = "next_box_button_audio-video"
 
-    _countries_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Choose a saved list to fill in countries from']"
-    _select_countries = "//ul[@class='dropdown-menu inner']//span[text()='Tier One Countries']"
+    _countries_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Tier One Countries']"
+    _select_countries = "//ul[@class='dropdown-menu inner']//span[text()='Tier Two Countries']"
     _countries_next_button = "next_box_button_countries"
 
     _ad_spotify_artists = "add_spotify_artist"
@@ -101,6 +101,8 @@ class AdPage(SeleniumDriver):
 
     def selectIgPageAccount(self):
         self.elementClick(self._select_igaccount, "xpath")
+        self.elementClick(self._select_igaccount, "xpath")
+
 
     def clickOnPixelAccount(self):
         self.elementClick(self._pixelaccount_caret, "xpath")
@@ -312,7 +314,7 @@ class AdPage(SeleniumDriver):
         self.mp3SendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\45 sec.mp3")
         self.mp4SendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\Hazard Lights - SGE Cover - Preview 1.mp4")
         time.sleep(2)
-        for i in range(51):
+        for i in range(500):
             if i > 49:
                 break
             time.sleep(2)
