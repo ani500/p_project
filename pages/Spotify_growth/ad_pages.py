@@ -17,13 +17,13 @@ class AdPage(SeleniumDriver):
     _goal_next_button = "next_box_button_choose-type"
 
     _page_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Select page']"
-    _select_page = "//ul[@class='dropdown-menu inner']//span[text()='Musical']"
+    _select_page = "//ul[@class='dropdown-menu inner']//span[text()='Bal page']"
     _fbaccount_caret = "//button[@data-id='ads_account_id']//span[text()='Select account']"
-    _select_fbaccount = "//ul[@class='dropdown-menu inner']//span[text()='1447513952355862 [Anil Sharma]']"
+    _select_fbaccount = "//ul[@class='dropdown-menu inner']//span[text()='800501724708840 [Balchand Tester]']"
     _igaccount_caret = "//button[@data-id='instagram_account_id']//span[text()='Select account']"
-    _select_igaccount = "//ul[@class='dropdown-menu inner']//span[text()='anilangira100']"
+    _select_igaccount = "//ul[@class='dropdown-menu inner']//span[text()='phoolpareta']"
     _pixelaccount_caret = "//button[@data-id='facebook_pixel_id']//span[text()='Select account']"
-    _select_pixelaccount = "//ul[@class='dropdown-menu inner']//span[text()='1597053410709523 [My Pixel]']"
+    _select_pixelaccount = "//ul[@class='dropdown-menu inner']//span[text()='747158949894786 [My Pixel]']"
 
     _accounts_next_button = "next_box_button_facebook-account-connect"
 
@@ -75,10 +75,15 @@ class AdPage(SeleniumDriver):
 
     #facebook Window Locators
     _facebook_button = "AdsFacebookLogin"
-    _facebook_confirm_button = "//span[text()='Continue as Anil Sharma']"
+    _facebook_confirm_button = "//span[text()='Continue as Balchand Tester']"
     _facebook_email = "email"
     _facebook_pass = "pass"
     _facebook_login_button = "//input[@value='Log In']"
+    #budget locators
+    _schedule_radio_button = "//div[@class='checkbox']//label[@for='ad_scheduled']"
+    _time_zone_caret = "//button[@class='btn dropdown-toggle btn-default']//span[text()='Alaska (GMT-09:00)']"
+    _select_zone = "//div[@class='btn-group bootstrap-select form-control dropup open']//span[text()='Arizona (GMT-07:00)']"
+
 
 
     def clickGoalNextButton(self):
@@ -233,7 +238,7 @@ class AdPage(SeleniumDriver):
 
 
     def createAd(self):
-        self.driver.get("https://dev2.hypeddit.com/ads/create/spotify_growth")
+        self.driver.get("https://dev2.hypeddit.com/ads/create/spotify_growth_track")
 
         self.goal()
 
@@ -263,14 +268,14 @@ class AdPage(SeleniumDriver):
         time.sleep(2)
         self.switchWindowHander(0)
         time.sleep(2)
-        self.fbEmailSendKeys("anilangira@gmail.com")
+        self.fbEmailSendKeys("testing010web@gmail.com")
         time.sleep(2)
-        self.fbPassSendKeys("Uid@12345")
+        self.fbPassSendKeys("KUL@o5678")
         time.sleep(2)
         self.clickFbLoginButton()
         self.waitFl(self._facebook_confirm_button,"xpath")
         self.clickFbConfirmButton()
-        time.sleep(10)
+        time.sleep(2)
         #self.driver.close()
         self.switchWindowHander(1)
 
@@ -313,7 +318,7 @@ class AdPage(SeleniumDriver):
     def ad(self):
         self.mp3SendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\45 sec.mp3")
         self.mp4SendKeys("C:\\Users\\Anil\\workspace_python\\hypeddit-Project\\Files\\Hazard Lights - SGE Cover - Preview 1.mp4")
-        time.sleep(2)
+        time.sleep(4)
         for i in range(500):
             if i > 49:
                 break
@@ -347,6 +352,8 @@ class AdPage(SeleniumDriver):
         self.waitFl(self._budget_caret, "xpath")
         self.clickOnBudget()
         self.selectBudgetAmount()
+        time.sleep(15)
+
         self.clickBudgetNextButton()
 
     def advance(self):

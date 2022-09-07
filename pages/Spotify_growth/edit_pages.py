@@ -225,7 +225,7 @@ class EditPage(SeleniumDriver):
 
 
     def editAd(self):
-        self.driver.get("https://dev2.hypeddit.com/ads/edit/8440b4e3-a044-425f-8dd5-f546c9b25bc3")
+        self.driver.get("https://dev2.hypeddit.com/ads/edit/5764be53-6899-4a85-ad9d-0f4324433ce7")
 
         self.goal()
         self.accountprofile()

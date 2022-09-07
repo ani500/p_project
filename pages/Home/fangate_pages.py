@@ -1195,7 +1195,7 @@ class FangatePage(SeleniumDriver):
         time.sleep(1)
         self.clickHypedditStep()
         time.sleep(1)
-        self.hypedditUrlSendKeys("https://www.dev2.hypeddit.com/track/vz2rfn")
+        self.hypedditUrlSendKeys("https://hypeddit.com/track/vz2rfn")
 
         # Email Capture Step
         self.clickEmStep()
