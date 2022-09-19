@@ -44,7 +44,7 @@ class FangatePage(SeleniumDriver):
     _title_next_button = "next_box4_button"
     # Design Section
     _upload_coverart_button = "selectManualCoverart"
-    _dark_theme_radio_button = "//div[@class='checkbox']//label[@for='dark_theme']"
+    _dark_theme_radio_button =  "//div[@class='checkbox']//label[@for='dark_theme']"
     _design_next_button = "next_box5_button"
 
     # Gate Steps Section
